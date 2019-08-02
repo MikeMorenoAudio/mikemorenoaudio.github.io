@@ -1,0 +1,15 @@
+---
+layout: default
+tags: [programming, music, misc]
+---
+
+<article class="tag">
+    <h2>Tags</h2>
+    {% for tag in page.tags %}
+    <div>
+        <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    </div>
+    {% endfor %}
+</article>
+
+

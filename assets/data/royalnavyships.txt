@@ -1,0 +1,5128 @@
+HMS A1
+HMS A2
+HMS A3
+HMS A4
+HMS A5
+HMS A6
+HMS A7
+HMS A8
+HMS A9
+HMS A10
+HMS A11
+HMS A12
+HMS A13
+HMS A14
+HMS Abbotsham
+HMS Abdiel
+HMS Abeille
+HMS Abelard
+HMS Abelia
+HMS Abercrombie
+HMS Aberdare
+HMS Aberdeen
+HMS Aberford
+HMS Aberfoyle 
+HMS Abergavenny
+HMS Abigail
+HMS Abingdon
+HMS Aboukir
+HMS Abraham 
+HMS Abrams Offering 
+HMS Abundance
+HMS Abyssinia 
+HMS Acacia 
+HMS Acanthus 
+HMS Acasta
+HMS Ace
+HMS Acertif 
+HMS Achates
+HMS Acheron
+HMS Achille
+HMS Achilles
+HMS Aconite 
+HMS Acorn
+HMS Actaeon
+HMS Acteon
+HMS Actif (1794)
+HMS Active
+HMS Activity
+HMS Acute
+HMS Adam & Eve
+HMS Adamant
+HMS Adamant II
+HMS Adda 
+HMS Adder
+HMS Adelaide
+HMS Adept 
+HMS Admirable
+HMS Admiral Devries 
+HMS Admiral Farragut 
+HMS Admiralty
+HMS Adonis 
+HMS Adroit 
+HMS Adur
+HMS Advance 
+HMS Advantage
+HMS Advantagia 
+HMS Adventure
+HMS Adventure Galley 
+HMS Adventure Prize 
+HMS Adversary
+HMS Advice
+HMS Advice Prize
+HMS Adviser 
+HMS Aeneas
+HMS Aeolus
+HMS Aetna
+HMS Affleck
+HMS Affray
+HMS Africa
+HMS Africaine
+HMS Afridi
+HMS Afrikander
+HMS Agamemnon
+HMS Agassiz 
+HMS Agate
+HMS Aggressor
+HMS Agile
+HMS Agincourt
+HMS Aglaia
+HMS Aid
+HMS Aigle
+HMS Aimable 
+HMS Aimwell 
+HMS Ainthorpe 
+HMS Aire 
+HMS Airedale 
+HMS Aisne
+HMS Aitape 
+HMS Ajax
+HMS Ajdaha 
+HMS Akbar
+HMS Akers 
+HMS Alacrity
+HMS Aladdin
+HMS Alamein
+HMS Alaric
+HMS Alarm
+HMS Alaunia II 
+HMS Albacore
+HMS Alban
+HMS Albanaise 
+HMS Albany
+HMS Albatross
+HMS Albemarle
+HMS Alberni 
+HMS Albert 
+HMS Alberta 
+HMS Albion
+HMS Albrighton 
+HMS Albuera 
+HMS Albury
+HMS Alcantara
+HMS Alcaston
+HMS Alice & Francis 
+HMS Alceste
+HMS Alcestis
+HMS Alcide
+HMS Alcmene
+HMS Aldborough
+HMS Aldenham 
+HMS Alderney
+HMS Aldington 
+HMS Alecto
+HMS Alert
+HMS Alerte
+HMS Alexander
+HMS Alexandra
+HMS Alexandre 
+HMS Alexandria 
+HMS Alfred 
+HMS Alfreda 
+HMS Alfriston 
+HMS Algerine
+HMS Algiers 
+HMS Algoma 
+HMS Algonquin 
+HMS Alice
+HMS Alisma 
+HMS Alkmaar 
+HMS Allegiance 
+HMS Allepin 
+HMS Alliance
+HMS Alligator
+HMS Allington Castle
+HMS Alnwick Castle
+HMS Alonzo 
+HMS Alphea (1806)
+HMS Alpheus 
+HMS Alresford
+HMS Altham
+HMS Alton Castle 
+HMS Alton 
+HMS Alverton 
+HMS Alvington 
+HMS Alynbank 
+HMS Alyssum 
+HMS Amalthaea
+HMS Amaranthe
+HMS Amaranthus 
+HMS Amarylis 
+HMS Amazon
+HMS Ambassador
+HMS Amberley Castle
+HMS Amberwitch 
+HMS Ambleside 
+HMS Amboyna (1796)
+HMS Ambrose
+HMS Ambuscade
+HMS Ambush
+HMS Ameer
+HMS Amelia
+HMS America
+HMS Amersham 
+HMS Amerton 
+HMS Amethyst
+HMS Amfitrite
+HMS Amitie 
+HMS Amity 
+HMS Amokura 
+HMS Amphion
+HMS Amphitrite
+HMS Amsterdam
+HMS Anachreon 
+HMS Anaconda
+HMS Anchorite
+HMS Anchusa
+HMS Andania
+HMS Andrew
+HMS Andromache
+HMS Andromeda
+HMS Anemone 
+HMS Angel 
+HMS Angelica 
+HMS Angler 
+HMS Anglesea 
+HMS Anglesey 
+HMS Anguilla
+HMS Ann & Christopher 
+HMS Ann & Judith 
+HMS Anna Teresa 
+HMS Anna
+HMS Annan 
+HMS Annapolis 
+HMS Anne Gallant
+HMS Anne Galley 
+HMS Anne Royal
+HMS Anne
+HMS Annet 
+HMS Anson
+HMS Answer
+HMS Ant
+HMS Antaeus
+HMS Antagonist
+HMS Antares 
+HMS Antelope
+HMS Anthony Boneventure 
+HMS Anthony
+HMS Antigonish 
+HMS Antigua
+HMS Antrim
+HMS Antwerp 
+HMS Anzio 
+HMS Apelles (1808)
+HMS Aphis
+HMS Aphrodite
+HMS Apollo
+HMS Appleby Castle 
+HMS Appledore
+HMS Appleton 
+HMS Approach
+HMS Aquarius 
+HMS Aquilon
+HMS Arab
+HMS Arabis
+HMS Arachne 
+HMS Ararat 
+HMS Arawa 
+HMS Araxes 
+HMS Arbella 
+HMS Arbiter
+HMS Arbroath 
+HMS Arbutus
+HMS Arcadian
+HMS Arc-en-Ciel 
+HMS Archer
+HMS Arcturus 
+HMS Ard Patrick
+HMS Ardent
+HMS Ardrossan
+HMS Arethusa
+HMS Arethuse 
+HMS Argenta
+HMS Argo
+HMS Argon 
+HMS Argonaut
+HMS Argosy
+HMS Argus
+HMS Argyll
+HMS Ariadne
+HMS Ariel
+HMS Aries 
+HMS Ariguani 
+HMS Ark Royal
+HMS Arlingham
+HMS Armada
+HMS Armeria 
+HMS Armide 
+HMS Arms of Holland 
+HMS Arms of Horn 
+HMS Arms of Rotterdam 
+HMS Arms of Terver 
+HMS Arno 
+HMS Arnprior 
+HMS Aro 
+HMS Arpha
+HMS Arras 
+HMS Arrernte 
+HMS Arrogant
+HMS Arrogante 
+HMS Arromanches 
+HMS Arrow
+HMS Arrowhead 
+HMS Artemis
+HMS Artful
+HMS Artifex
+HMS Artigo 
+HMS Artois
+HMS Arun
+HMS Arundel
+HMS Arunta 
+HMS Arve Princen 
+HMS Ascension
+HMS Ascot
+HMS Asgard
+HMS Ashanti
+HMS Ashburton 
+HMS Asheldham
+HMS Ashton
+HMS Asia
+HMS Asp
+HMS Asperity
+HMS Asphodel 
+HMS Assail 
+HMS Assam 
+HMS Assault 
+HMS Assiduous 
+HMS Assiniboine 
+HMS Assistance
+HMS Association
+HMS Assurance
+HMS Astarte
+HMS Aster 
+HMS Astraea
+HMS Asturias 
+HMS Astute
+HMS Atalanta
+HMS Atalante
+HMS Atheling 
+HMS Athelney 
+HMS Athene
+HMS Athenienne
+HMS Atherstone
+HMS Atholl 
+HMS Atlantis
+HMS Atlas
+HMS Attack
+HMS Attacker
+HMS Attentive
+HMS Attentive II 
+HMS Aubretia 
+HMS Aubrietia 
+HMS Auckland 
+HMS Audacieux 
+HMS Audacious
+HMS Audacity
+HMS Augusta
+HMS Augustine 
+HMS Augustus 
+HMS Auricaula 
+HMS Auricula 
+HMS Auriga
+HMS Aurochs
+HMS Aurora
+HMS Aurore 
+HMS Ausonia 
+HMS Austere
+HMS Australia
+HMS Autocarrier 
+HMS Autumn 
+HMS Aveley 
+HMS Avenger
+HMS Avernus
+HMS Avon Vale (L06)
+HMS Avon
+HMS Awake
+HMS Awe 
+HMS Axford 
+HMS Aydon Castle 
+HMS Aylmer
+HMS Ayrshire 
+HMS Azalea
+HMS Azov 
+HMS Aztec
+HMS B1
+HMS B2
+HMS B3
+HMS B4
+HMS B5
+HMS B6
+HMS B7
+HMS B8
+HMS B9
+HMS B10
+HMS B11
+HMS Babet (1794)
+HMS Bacchante
+HMS Bacchus 
+HMS Baddeck 
+HMS Badger
+HMS Badminton
+HMS Badsworth (L03)
+HMS Bagshot
+HMS Bahama 
+HMS Bahamas
+HMS Bala 
+HMS Baleine
+HMS Balfour
+HMS Ballahoo (1804)
+HMS Ballahou
+HMS Ballarat 
+HMS Ballindery 
+HMS Balm 
+HMS Balmain 
+HMS Balsam 
+HMS Baltimore 
+HMS Bamborough Castle
+HMS Banbury 
+HMS Banchory
+HMS Banff 
+HMS Bangor
+HMS Bann
+HMS Banshee
+HMS Banterer
+HMS Bantry
+HMS Bantum 
+HMS Barbadoes 
+HMS Barbados
+HMS Barbara
+HMS Barbara Robertson 
+HMS Barbette 
+HMS Barbuda 
+HMS Barcross
+HMS Barfleur
+HMS Barham
+HMS Bark of Bullen 
+HMS Bark of Murlesse 
+HMS Barle 
+HMS Barnard Castle
+HMS Barnstaple
+HMS Barnwell Castle 
+HMS Barracouta
+HMS Barrington 
+HMS Barrosa
+HMS Basilisk
+HMS Basing 
+HMS Bassingham
+HMS Bastion 
+HMS Bat
+HMS Batavia 
+HMS Bath 
+HMS Bathgate 
+HMS Bathurst 
+HMS Batman 
+HMS Battle
+HMS Battleaxe
+HMS Battler
+HMS Bayfield 
+HMS Bayntun 
+HMS Bayonet 
+HMS Bazely 
+HMS Beachampton 
+HMS Beachy Head 
+HMS Beacon Hill 
+HMS Beacon 
+HMS Beagle
+HMS Bear 
+HMS Beatrice 
+HMS Beatty 
+HMS Beaufort
+HMS Beaulieu 
+HMS Beauly Firth 
+HMS Beaumaris 
+HMS Beaumont 
+HMS Beaver Prize
+HMS Beaver
+HMS Beccles 
+HMS Beckford
+HMS Beckwith 
+HMS Bedale
+HMS Bedford Galley 
+HMS Bedford
+HMS Bedham
+HMS Bedouin
+HMS Bee
+HMS Beehive 
+HMS Beeston Castle 
+HMS Begonia
+HMS Begum 
+HMS Belem 
+HMS Belette
+HMS Belfast
+HMS Belisarius 
+HMS Belle Isle 
+HMS Belle Poule
+HMS Bellechasse 
+HMS Belleisle
+HMS Bellerophon
+HMS Belliqueux
+HMS Bellona
+HMS Bellwort
+HMS Belmont
+HMS Belton 
+HMS Belvidera 
+HMS Belvoir
+HMS Belzebub 
+HMS Ben Lomond 
+HMS Ben Meidie 
+HMS Ben Nevis 
+HMS Benalla 
+HMS Benbow
+HMS Bendigo 
+HMS Bendor 
+HMS Bengal 
+HMS Benjamin & Ann 
+HMS Benjamin 
+HMS Ben-my-Chree
+HMS Bentinck
+HMS Bentley 
+HMS Berberis 
+HMS Berbice 
+HMS Bere Castle 
+HMS Beresford 
+HMS Bergamot
+HMS Bergere 
+HMS Berkeley Castle
+HMS Berkeley
+HMS Bermagui 
+HMS Bermuda
+HMS Berry Head 
+HMS Berry 
+HMS Berwick
+HMS Beschermer 
+HMS Betano 
+HMS Betony 
+HMS Betty 
+HMS Beverley
+HMS Bevington 
+HMS Beware 
+HMS Bezan 
+HMS Bhamo 
+HMS Bicester
+HMS Bickerton
+HMS Bickington 
+HMS Biddeford
+HMS Bideford
+HMS Bienfaisant 
+HMS Bigbury Bay
+HMS Bihar 
+HMS Bildeston 
+HMS Bilsthorpe 
+HMS Bird 
+HMS Birdham
+HMS Birkenhead
+HMS Birmingham
+HMS Bisham
+HMS Biter
+HMS Bittern
+HMS Bittersweet 
+HMS Black Bull 
+HMS Black Dog 
+HMS Black Eagle
+HMS Black Joke
+HMS Black Posthorse 
+HMS Black Prince
+HMS Black Spread-Eagle 
+HMS Black Swan
+HMS Black 
+HMS Blackburn
+HMS Blackfly
+HMS Blackmore Ketch 
+HMS Blackmore Lady 
+HMS Blackmore
+HMS Blackmorevale 
+HMS Blackpool
+HMS Blackwall 
+HMS Blackwater 
+HMS Blackwood
+HMS Blade 
+HMS Blairmore 
+HMS Blake
+HMS Blakeney 
+HMS Blanche
+HMS Blandford 
+HMS Blankney (L30)
+HMS Blaxton 
+HMS Blaze 
+HMS Blazer
+HMS Blean
+HMS Bleasdale (L50) 
+HMS Blencathra
+HMS Blenheim
+HMS Blessing 
+HMS Blickling 
+HMS Bligh
+HMS Blonde
+HMS Bloodhound
+HMS Bloom 
+HMS Blossom
+HMS Bluebell
+HMS Bluethroat 
+HMS Blyth
+HMS Boadicea
+HMS Bodenham
+HMS Bodiam Castle 
+HMS Bogam 
+HMS Bold
+HMS Bolebroke 
+HMS Bolton Castle 
+HMS Bolton 
+HMS Bombard 
+HMS Bombay Castle 
+HMS Bombay
+HMS Bomerang 
+HMS Bonaventure
+HMS Bonavoila 
+HMS Bonetta
+HMS Bonita 
+HMS Bonito 
+HMS Bonne Citoyenne
+HMS Bootle
+HMS Borage 
+HMS Border Cities 
+HMS Border
+HMS Boreas
+HMS Boreham
+HMS Borer 
+HMS Boscawen
+HMS Bossington 
+HMS Boston
+HMS Botha 
+HMS Bottisham
+HMS Bouclier 
+HMS Boulogne 
+HMS Boulston 
+HMS Bouncer
+HMS Bountiful 
+HMS Bounty
+HMS Bourbonnaise 
+HMS Bourdelias 
+HMS Bowen 
+HMS Bowes Castle 
+HMS Bowmanville 
+HMS Boxer
+HMS Boyne
+HMS Braak
+HMS Braave 
+HMS Bradfield
+HMS Bradford 
+HMS Braid 
+HMS Braithwaite 
+HMS Brakel 
+HMS Bramber 
+HMS Bramble
+HMS Bramham
+HMS Brampton 
+HMS Brandon 
+HMS Branlebas 
+HMS Brantford 
+HMS Brantingham
+HMS Brave
+HMS Bravo 
+HMS Brayford 
+HMS Brazen
+HMS Bream
+HMS Brearley 
+HMS Brecon
+HMS Breconshire 
+HMS Bredah 
+HMS Brenchley 
+HMS Brereton
+HMS Brev Drageren (1807)
+HMS Briar 
+HMS Bridgewater
+HMS Bridgnorth Castle 
+HMS Bridlington 
+HMS Bridport
+HMS Brigadier
+HMS Brigandine 
+HMS Brigantine 
+HMS Brigham
+HMS Brighton
+HMS Brilliant
+HMS Brilliant-Prize 
+HMS Brinkley 
+HMS Brinton 
+HMS Briseis
+HMS Brisk
+HMS Brissenden 
+HMS Bristol
+HMS Britannia
+HMS Britomart
+HMS Briton
+HMS Brixham 
+HMS Broaderschap 
+HMS Broadley 
+HMS Broadsword (disambiguation)
+HMS Broadwater
+HMS Broadway
+HMS Brock 
+HMS Brocklesby
+HMS Brockville 
+HMS Broke
+HMS Brolga 
+HMS Bronington
+HMS Broom 
+HMS Broome 
+HMS Broomley 
+HMS Brothers 
+HMS Brough Castle 
+HMS Bruce 
+HMS Bruiser
+HMS Bruizer
+HMS Brune 
+HMS Brunei 
+HMS Brunswick 
+HMS Brutus 
+HMS Bryansford 
+HMS Bryony
+HMS Buccaneer 
+HMS Bucephalus 
+HMS Buchan Ness 
+HMS Buck 
+HMS Buckie 
+HMS Buckingham
+HMS Buctouche 
+HMS Buddleia 
+HMS Bude 
+HMS Buffalo
+HMS Bugloss 
+HMS Bull 
+HMS Bulldog
+HMS Bullen 
+HMS Bullfinch
+HMS Bullfrog 
+HMS Bullhead 
+HMS Bullrush 
+HMS Bulolo
+HMS Bulrush 
+HMS Bulwark
+HMS Burchett 
+HMS Burdock 
+HMS Burford
+HMS Burges 
+HMS Burghead Bay 
+HMS Burley 
+HMS Burlington
+HMS Burnaston 
+HMS Burnet 
+HMS Burnham
+HMS Burnie 
+HMS Burslem
+HMS Burton
+HMS Burwell
+HMS Bury
+HMS Buss 
+HMS Bustard 
+HMS Bustler 
+HMS Busy 
+HMS Buttercup 
+HMS Butterfly 
+HMS Buttington 
+HMS Buttress 
+HMS Buxton
+HMS Buzzard
+HMS Byard
+HMS Byron 
+HMS C1
+HMS C2
+HMS C3
+HMS C4
+HMS C5
+HMS C6
+HMS C7
+HMS C8
+HMS C9
+HMS C10
+HMS C11
+HMS C12
+HMS C13
+HMS C14
+HMS C15
+HMS C16
+HMS C17
+HMS C18
+HMS C19
+HMS C20
+HMS C21
+HMS C22
+HMS C23
+HMS C24
+HMS C25
+HMS C26
+HMS C27
+HMS C28
+HMS C29
+HMS C30
+HMS C31
+HMS C32
+HMS C33
+HMS C34
+HMS C35
+HMS C36
+HMS C37
+HMS C38
+HMS CH-14
+HMS CH-15
+HMS Ça Ira
+HMS Cabot 
+HMS Cachalot
+HMS Caddisfly 
+HMS Cadiz
+HMS Cadmus
+HMS Caerleon
+HMS Caesar
+HMS Caicos
+HMS Cairns 
+HMS Cairo
+HMS Caistor Castle
+HMS Calabash 
+HMS Calcutta
+HMS Caldecot Castle 
+HMS Calder
+HMS Caldwell 
+HMS Caledon
+HMS Caledonia
+HMS Calendula 
+HMS Calgarian
+HMS Calgary 
+HMS Calliope
+HMS Calpe
+HMS Calshot Castle 
+HMS Calton 
+HMS Calypso
+HMS Cam 
+HMS Camberford 
+HMS Camberley
+HMS Cambria
+HMS Cambrian
+HMS Cambridge
+HMS Cambridgeshire
+HMS Camel
+HMS Cameleon
+HMS Camellia
+HMS Cameron
+HMS Cameronia
+HMS Camilla
+HMS Campania
+HMS Campanula 
+HMS Campaspe 
+HMS Campbell
+HMS Campbeltown
+HMS Camperdown
+HMS Campion 
+HMS Camrose 
+HMS Canada
+HMS Canceaux (1764)
+HMS Candytuft
+HMS Canning 
+HMS Canopus
+HMS Canso 
+HMS Canterbury Castle 
+HMS Canterbury
+HMS Cap de la Madeleine 
+HMS Cape Breton 
+HMS Cape Scott 
+HMS Cape Wrath 
+HMS Capel
+HMS Capelin 
+HMS Capetown
+HMS Capilano 
+HMS Caprice 
+HMS Captain
+HMS Captivity
+HMS Caradoc
+HMS Caraquet 
+HMS Carcass
+HMS Cardiff
+HMS Cardigan Bay
+HMS Cardingham
+HMS Careful 
+HMS Carew Castle 
+HMS Carhampton 
+HMS Carisbrooke Castle
+HMS Carlisle
+HMS Carlotta 
+HMS Carlplace 
+HMS Carmen 
+HMS Carnarvon Bay 
+HMS Carnarvon Castle
+HMS Carnarvon
+HMS Carnatic 
+HMS Carnation
+HMS Caroles 
+HMS Carolina 
+HMS Caroline
+HMS Carrere 
+HMS Carrick
+HMS Carrick II 
+HMS Carrier (1805)
+HMS Carron 
+HMS Carronade 
+HMS Carstairs
+HMS Carysfort
+HMS Cashel 
+HMS Cassandra
+HMS Cassius 
+HMS Castilian 
+HMS Castle 
+HMS Castle Harbour 
+HMS Castlemaine 
+HMS Castlereagh 
+HMS Castleton
+HMS Castor
+HMS Cat 
+HMS Caterham
+HMS Catherine
+HMS Cato 
+HMS Caton 
+HMS Catterick 
+HMS Cattistock
+HMS Caunton 
+HMS Cauvery 
+HMS Cavalier
+HMS Cavan 
+HMS Cavendish 
+HMS Cawsand Bay 
+HMS Cawsand 
+HMS Cayman
+HMS Cayuga 
+HMS Ceanothus
+HMS Cedarwood 
+HMS Celandine
+HMS Celebes (1806)
+HMS Celerity 
+HMS Celia
+HMS Celt 
+HMS Censeur
+HMS Censor 
+HMS Centaur
+HMS Centurion
+HMS Cephalus 
+HMS Cerbere (1800)
+HMS Cerberus
+HMS Ceres
+HMS Cerf 
+HMS Cessnock 
+HMS Ceylon
+HMS Chailey 
+HMS Chaleur 
+HMS Challenger
+HMS Chambly 
+HMS Chameleon
+HMS Chamois
+HMS Champion
+HMS Champlain 
+HMS Chance 
+HMS Chanticleer
+HMS Chaplet 
+HMS Charger
+HMS Charity
+HMS Charles
+HMS Charles V 
+HMS Charles and Henry 
+HMS Charles Galley
+HMS Charles Upham 
+HMS Charlestown
+HMS Charlock 
+HMS Charlotte
+HMS Charlottetown 
+HMS Charon
+HMS Charwell
+HMS Charybdis
+HMS Chaser
+HMS Chasseur 
+HMS Chatham Double 
+HMS Chatham Hulk 
+HMS Chatham Prize 
+HMS Chatham
+HMS Chatsgrove 
+HMS Chaudiere
+HMS Chawton 
+HMS Cheam
+HMS Chebogue 
+HMS Chedabucto 
+HMS Chediston
+HMS Cheerful
+HMS Cheerly 
+HMS Chelmer 
+HMS Chelmsford
+HMS Chelsea
+HMS Chelsham
+HMS Cheltenham
+HMS Chepstow Castle 
+HMS Chepstow
+HMS Chequers 
+HMS Cheriton 
+HMS Cherokee 
+HMS Cherub 
+HMS Cherwell 
+HMS Cherwell 
+HMS Chesapeake 
+HMS Cheshire
+HMS Chester Castle 
+HMS Chester
+HMS Chesterfield
+HMS Chestnut 
+HMS Cheviot 
+HMS Chevreuil 
+HMS Chevron
+HMS Chichester
+HMS Chicoutimi 
+HMS Chiddingfold
+HMS Chieftain
+HMS Chignecto 
+HMS Chilcompton
+HMS Childers
+HMS Childs Play 
+HMS Chillingham
+HMS Chilliwick 
+HMS Chilton 
+HMS Chippeway (1812)
+HMS Chittagong 
+HMS Chivalrous 
+HMS Cholmondeley 
+HMS Christ 
+HMS Christchurch Castle 
+HMS Christian VII 
+HMS Christopher Spayne 
+HMS Christopher 
+HMS Chrysanthemum 
+HMS Chub
+HMS Chubb
+HMS Church 
+HMS Churchill
+HMS Cicala 
+HMS Cicero
+HMS Circassian 
+HMS Circe
+HMS Citadel 
+HMS Clacton
+HMS Clara 
+HMS Clarbeston 
+HMS Clare Castle 
+HMS Clare
+HMS Clarence
+HMS Clarkia 
+HMS Claudia (1806)
+HMS Claverhouse
+HMS Clavering Castle 
+HMS Claymore 
+HMS Clayoquot 
+HMS Clematis 
+HMS Cleopatra
+HMS Cleveland 
+HMS Clifton 
+HMS Clinker 
+HMS Clinton 
+HMS Clio
+HMS Clitheroe Castle 
+HMS Clive 
+HMS Clonmel
+HMS Clorinde 
+HMS Clove Tree 
+HMS Clovelly 
+HMS Clover 
+HMS Clown 
+HMS Clun Castle 
+HMS Clyde
+HMS Clydebank 
+HMS Coaticook 
+HMS Cobalt 
+HMS Cobham
+HMS Cobourg 
+HMS Cobra
+HMS Cochin 
+HMS Cochrane
+HMS Cockade
+HMS Cockatrice
+HMS Cockburn
+HMS Cockchafer
+HMS Cocksedge 
+HMS Codrington
+HMS Colac 
+HMS Colchester Castle 
+HMS Colchester
+HMS Colibri
+HMS Colleen
+HMS Collingwood
+HMS Collins 
+HMS Collinson 
+HMS Colne 
+HMS Colombe 
+HMS Colombo
+HMS Colossus
+HMS Coltsfoot 
+HMS Columbia 
+HMS Columbine
+HMS Colwyn 
+HMS Combatant 
+HMS Combustion 
+HMS Comet
+HMS Comfrey 
+HMS Commandant d'Estienne d'Orves 
+HMS Commandant Detroyat 
+HMS Commandant Domine 
+HMS Commandant Drogou 
+HMS Commandant Duboc 
+HMS Commerce de Marseille 
+HMS Commonwealth
+HMS Comox 
+HMS Comus
+HMS Conception 
+HMS Concord
+HMS Concorde
+HMS Condamine 
+HMS Condor
+HMS Confederate 
+HMS Confiance
+HMS Conflagration 
+HMS Conflict
+HMS Confounder 
+HMS Congo
+HMS Coniston 
+HMS Conn 
+HMS Conquerant 
+HMS Conquerante 
+HMS Conqueror
+HMS Conquest
+HMS Conquestador
+HMS Conrad 
+HMS Consort
+HMS Constance
+HMS Constant John 
+HMS Constant Reformation
+HMS Constant Warwick
+HMS Constant 
+HMS Constitution
+HMS Content
+HMS Contest
+HMS Convert 
+HMS Convertine 
+HMS Convolvulus 
+HMS Convulsion 
+HMS Conway
+HMS Cook 
+HMS Cooke
+HMS Cootamundra 
+HMS Coote 
+HMS Coppercliff 
+HMS Coquette
+HMS Coquille
+HMS Coral Snake 
+HMS Cordelia
+HMS Coreopsis 
+HMS Corfe Castle 
+HMS Coriander 
+HMS Cormorant
+HMS Cornel 
+HMS Cornelia 
+HMS Cornelian 
+HMS Cornerbrook 
+HMS Cornet Castle 
+HMS Cornflower 
+HMS Cornwall
+HMS Cornwallis
+HMS Coromandel
+HMS Coronation 
+HMS Corso 
+HMS Corunna
+HMS Cosby 
+HMS Cossack
+HMS Cotillion
+HMS Cotswold 
+HMS Cottesmore
+HMS Cotton 
+HMS Coucy 
+HMS Counterguard 
+HMS Countess of Carinthia 
+HMS Countess of Hopetoun
+HMS Courageous
+HMS Courageux
+HMS Courbet 
+HMS Coureur
+HMS Coureuse (1795)
+HMS Courier 
+HMS Courser 
+HMS Courtneay 
+HMS Coventry
+HMS Cowdray 
+HMS Cowes Castle 
+HMS Cowichan 
+HMS Cowling Castle 
+HMS Cowper 
+HMS Cowra 
+HMS Cowslip 
+HMS Craccher 
+HMS Crache-Feu 
+HMS Cracker 
+HMS Cradley 
+HMS Renard (1803)
+HMS Craigie
+HMS Crane
+HMS Cranefly 
+HMS Cranham
+HMS Cranstoun 
+HMS Crash
+HMS Craufurd 
+HMS Crediton 
+HMS Creole
+HMS Crescent
+HMS Cressy
+HMS Cretan 
+HMS Criccieth Castle 
+HMS Crichton 
+HMS Cricket
+HMS Crispin 
+HMS Crocodile
+HMS Crocus
+HMS Crofton 
+HMS Cromarty 
+HMS Cromer Castle
+HMS Cromer
+HMS Cromwell 
+HMS Croome
+HMS Crossbow
+HMS Crow 
+HMS Crown Malago 
+HMS Crown Prize 
+HMS Crown
+HMS Croxton
+HMS Crozier 
+HMS Croziers 
+HMS Cruelle 
+HMS Cruiser
+HMS Cruizer
+HMS Crusader
+HMS Crystal 
+HMS Cuba 
+HMS Cubitt
+HMS Cuckmere 
+HMS Cuckoo
+HMS Cuffley 
+HMS Culgoa 
+HMS Cullin Sound 
+HMS Culloden
+HMS Culver 
+HMS Culverin 
+HMS Cumberland
+HMS Cupar
+HMS Cupid 
+HMS Curacoa
+HMS Curieux 
+HMS Curlew
+HMS Curragh 
+HMS Curzon
+HMS Cutlass 
+HMS Cutter 
+HMS Cuttle 
+HMS Cuxton 
+HMS Cyane
+HMS Cybele 
+HMS Cyclamen 
+HMS Cyclops
+HMS Cydnus
+HMS Cygnet
+HMS Cynthia
+HMS Cyrene 
+HMS Cyrus 
+HMS Czarevitch 
+HMS D1
+HMS D2
+HMS D3
+HMS D4
+HMS D5
+HMS D6
+HMS D7
+HMS D8
+HMS D9
+HMS D10
+HMS Dacres 
+HMS Daedalus
+HMS Daedalus II
+HMS Daffodil
+HMS Dagger
+HMS Dahlia 
+HMS Dainty
+HMS Daisy 
+HMS Dakins
+HMS Dalhousie 
+HMS Dalrymple 
+HMS Dalswinton 
+HMS Dame de Grace 
+HMS Damerham
+HMS Dampier 
+HMS Danae
+HMS Dangereuse (1799)
+HMS Daniel 
+HMS Dannemark 
+HMS Danube
+HMS Daphne
+HMS Dapper 
+HMS Daring
+HMS Darlaston 
+HMS Darsham
+HMS Dart
+HMS Dartington 
+HMS Dartmoor 
+HMS Dartmouth
+HMS Darwin 
+HMS Dasher
+HMS Date Tree 
+HMS Dauntless
+HMS Dauphin Royal (1796)
+HMS Dauphin 
+HMS Davenham
+HMS David 
+HMS Dawlish 
+HMS Dawson 
+HMS De Ruyter 
+HMS Deale Castle 
+HMS Deale 
+HMS Deane
+HMS Decade
+HMS Deccan 
+HMS Decibel 
+HMS Decouverte 
+HMS Decoy
+HMS Dedaigneuse 
+HMS Dee
+HMS Deepwater 
+HMS Defence
+HMS Defender
+HMS Defiance
+HMS Dego 
+HMS Delaware 
+HMS Delft
+HMS Delhi
+HMS Delight
+HMS Deloraine 
+HMS Delphinen 
+HMS Delphinium 
+HMS Demerara 
+HMS Demir Hisar 
+HMS Demon 
+HMS Denbigh Castle
+HMS Dennis 
+HMS Dependence 
+HMS Deptford
+HMS Deptford Prize 
+HMS Deptford Transport 
+HMS Derby
+HMS Derby Haven 
+HMS Derg 
+HMS Derrington 
+HMS Dervish 
+HMS Derwent
+HMS Deschaineux 
+HMS Desford 
+HMS Desire 
+HMS Desiree 
+HMS Despatch
+HMS Desperante
+HMS Desperate
+HMS Destiny 
+HMS Destruction
+HMS Determinee 
+HMS Detroit
+HMS Deux Amis (1796)
+HMS Devastation
+HMS Deveron
+HMS Devizes Castle 
+HMS Devonshire
+HMS Dexterous 
+HMS Dextrous 
+HMS Dhyffe Castle 
+HMS Diadem
+HMS Diamantina 
+HMS Diamond
+HMS Diamond Snake 
+HMS Diana
+HMS Dianella 
+HMS Dianthus 
+HMS Dictator
+HMS Dido
+HMS Didon
+HMS Dieppe
+HMS Digby 
+HMS Diligence
+HMS Diligent
+HMS Diligente 
+HMS Dilston 
+HMS Dingley 
+HMS Diomede
+HMS Dipper
+HMS Director 
+HMS Dirk 
+HMS Discovery
+HMS Disdain 
+HMS Dispatch
+HMS Dittany 
+HMS Dittisham
+HMS Diver 
+HMS Dodman Point 
+HMS Dogstar 
+HMS Dolphin
+HMS Dolphins Prize 
+HMS Dolwen 
+HMS Domett
+HMS Dominica
+HMS Dominion
+HMS Don 
+HMS Doncaster 
+HMS Donegal
+HMS Donovan
+HMS Doomba 
+HMS Doon
+HMS Dordrecht 
+HMS Doris
+HMS Dorking
+HMS Dornoch 
+HMS Dorothea 
+HMS Dorset 
+HMS Dorsetshire
+HMS Doterel
+HMS Douglas
+HMS Dove
+HMS Dover
+HMS Dover Castle 
+HMS Dover Prize
+HMS Dovey 
+HMS Downham
+HMS Downley 
+HMS Dragon
+HMS Dragon Prize 
+HMS Dragonfly 
+HMS Drake
+HMS Dreadful 
+HMS Dreadnought
+HMS Dreadnought Prize 
+HMS Driver
+HMS Drochterland 
+HMS Drogheda 
+HMS Dromedary
+HMS Dromio 
+HMS Droxford 
+HMS Drudge 
+HMS Druid
+HMS Drumheller 
+HMS Drummondville 
+HMS Drury
+HMS Dryad
+HMS Dubbo 
+HMS Dubford 
+HMS Dublin
+HMS Duc d'Aquitaine 
+HMS Duc de Chartres 
+HMS Duc de la Vauginon (1779)
+HMS Duc d'Estissac 
+HMS Duchess
+HMS Duchess of Cumberland
+HMS Duchess of Montrose
+HMS Duchess of Norfolk
+HMS Duckworth
+HMS Duddon 
+HMS Dudley Castle 
+HMS Due Repulse 
+HMS Duff
+HMS Dufferin 
+HMS Dufton
+HMS Duguay Trouin 
+HMS Duke
+HMS Duke of Albany
+HMS Duke of Edinburgh
+HMS Duke of Kent 
+HMS Duke of Wellington
+HMS Duke of York
+HMS Duke William 
+HMS Dullisk Cove 
+HMS Dulverton
+HMS Dumbarton 
+HMS Dumbarton Castle
+HMS Dumbleton 
+HMS Dunbar 
+HMS Duncan
+HMS Duncansby Head 
+HMS Dundalk
+HMS Dundas 
+HMS Dundee
+HMS Dundrum Bay 
+HMS Dunedin
+HMS Dungeness 
+HMS Dunira 
+HMS Dunkerton 
+HMS Dunkirk
+HMS Dunkirk Prize 
+HMS Dunmore 
+HMS Dunoon
+HMS Dunster Castle 
+HMS Dunvegan 
+HMS Dunver 
+HMS Dunwich 
+HMS Duquesne 
+HMS Durban 
+HMS Durham 
+HMS Dursley Galley 
+HMS Durweston 
+HMS Dutiful 
+HMS Dwarf 
+HMS E1
+HMS E2
+HMS E3
+HMS E4
+HMS E5
+HMS E6
+HMS E7
+HMS E8
+HMS E9
+HMS E10
+HMS E11
+HMS E12
+HMS E13
+HMS E14
+HMS E15
+HMS E16
+HMS E17
+HMS E18
+HMS E19
+HMS E20
+HMS E21
+HMS E22
+HMS E23
+HMS E24
+HMS E25
+HMS E26
+HMS E27
+HMS E28 
+HMS E29
+HMS E30
+HMS E31
+HMS E32
+HMS E33
+HMS E34
+HMS E35
+HMS E36
+HMS E37
+HMS E38
+HMS E39
+HMS E40
+HMS E41
+HMS E42
+HMS E43
+HMS E44
+HMS E45
+HMS E46
+HMS E47
+HMS E48
+HMS E49
+HMS E50
+HMS E51
+HMS E52
+HMS E53
+HMS E54
+HMS E55
+HMS E56
+HMS E57
+HMS E58
+HMS Eagle
+HMS Eagle Shallop 
+HMS Eaglet
+HMS Earl 
+HMS Earl of Chatham 
+HMS Earl of Denbigh 
+HMS Earl of Egmont 
+HMS Earl of Northampton 
+HMS Earl of Peterborough
+HMS Earl Roberts 
+HMS Earnest 
+HMS Eastbourne
+HMS Easton 
+HMS Eastview 
+HMS Eastway 
+HMS Echo
+HMS Echuca 
+HMS Eclair
+HMS Eclipse
+HMS Edderton 
+HMS Eden
+HMS Edgar
+HMS Edgeley 
+HMS Edinburgh
+HMS Edlingham
+HMS Edmonton 
+HMS Edmundston 
+HMS Edward 
+HMS Effingham
+HMS Egeria
+HMS Eggesford 
+HMS Eglantine 
+HMS Eglinton 
+HMS Egmont
+HMS Egremont 
+HMS Egremont Castle 
+HMS Egret
+HMS Ehkoli 
+HMS Eideren 
+HMS Ekins
+HMS El Corso 
+HMS El Vivo 
+HMS Eleanor 
+HMS Electra
+HMS Elephant
+HMS Elf 
+HMS Elfin
+HMS Elfreda 
+HMS Elgin
+HMS Elias 
+HMS Eling (1798)
+HMS Elizabeth
+HMS Elizabeth & Sarah 
+HMS Elizabeth Bonaventure 
+HMS Elizabeth Jonas 
+HMS Elk
+HMS Ellinor 
+HMS Ellinore 
+HMS Elphinstone
+HMS Elsenham
+HMS Eltham 
+HMS Elven 
+HMS Embleton 
+HMS Emerald
+HMS Emersham 
+HMS Emilia 
+HMS Emilien 
+HMS Emily 
+HMS Emperor
+HMS Emperor of India
+HMS Empire 
+HMS Empire Anvil
+HMS Cicero (F170)
+HMS Audacity (D10)
+HMS Empire Battleaxe
+HMS Empire Broadsword
+HMS Empire Cedric
+HMS Empire Comfort
+HMS Empire Crossbow
+HMS Empire Cutlass
+HMS Empire Cymric
+HMS Empire Dace
+HMS Empire Gauntlet 
+HMS Empire Halberd 
+HMS Empire Javelin
+HMS Empire Lance 
+HMS Empire Mace 
+HMS Empire Peacemaker
+HMS Empire Rapier 
+HMS Empire Rest
+HMS Empire Shelter
+HMS Empire Spearhead
+HMS Empress
+HMS Empress Mary 
+HMS Empress of India
+HMS Ems (1809)
+HMS Emsworth 
+HMS Emulous
+HMS Enard Bay 
+HMS Enchantress
+HMS Encounter
+HMS Endeavour
+HMS Endeavour Bark
+HMS Endeavour Transport 
+HMS Endurance
+HMS Endymion
+HMS Engadine
+HMS England 
+HMS Enterprise
+HMS Entreprenante (1799)
+HMS Epervier
+HMS Ephira 
+HMS Ephraim 
+HMS Epinal 
+HMS Epreuve 
+HMS Epsom 
+HMS Erebus
+HMS Erica 
+HMS Eridanus 
+HMS Eridge
+HMS Erin
+HMS Erne
+HMS Errant 
+HMS Eruption 
+HMS Escapade
+HMS Escort
+HMS Esk
+HMS Eskdale 
+HMS Eskimo
+HMS Esperance
+HMS Esperanza 
+HMS Espiegle
+HMS Espion
+HMS Espoir
+HMS Esquimalt 
+HMS Essex
+HMS Essex Prize 
+HMS Essington
+HMS Esther 
+HMS Estridge 
+HMS Etchingham
+HMS Ethalion
+HMS Etna
+HMS Etrusco 
+HMS Ettrick
+HMS Eugenie
+HMS Euphrates
+HMS Euphrosyne (1796)
+HMS Europa
+HMS Eurotas
+HMS Eurus 
+HMS Euryalus
+HMS Eurydice
+HMS Eustatia 
+HMS Evadne
+HMS Evenlode 
+HMS Everingham
+HMS Example
+HMS Excalibur
+HMS Excellent
+HMS Exchange 
+HMS Exe 
+HMS Exerton 
+HMS Exeter
+HMS Exmoor
+HMS Exmouth
+HMS Expedition 
+HMS Experiment
+HMS Exploit 
+HMS Explorer
+HMS Explosion 
+HMS Express
+HMS Extravagant 
+HMS Eyderen 
+HMS Eyebright 
+HMS F1
+HMS F2
+HMS F3
+HMS Fagons 
+HMS Fair Rhodian 
+HMS Fair Rosamond 
+HMS Fairfax
+HMS Fairfield
+HMS Fairlight 
+HMS Fairy Queen 
+HMS Fairy
+HMS Faith 
+HMS Faithful 
+HMS Fal
+HMS Falcon Flyboat 
+HMS Falcon in the Fetterlock 
+HMS Falcon of the Tower 
+HMS Falcon
+HMS Falkland Prize 
+HMS Falkland
+HMS Falmouth
+HMS Fama
+HMS Fame
+HMS Fancy 
+HMS Fandango 
+HMS Fanfan 
+HMS Fanny 
+HMS Fantome
+HMS Fareham
+HMS Farncomb 
+HMS Farndale 
+HMS Farnham Castle 
+HMS Farragut 
+HMS Fastnet 
+HMS Faulknor
+HMS Faversham
+HMS Favorite
+HMS Favourite
+HMS Fawkner 
+HMS Fawn
+HMS Fearless
+HMS Felicidade 
+HMS Felicite 
+HMS Felicity 
+HMS Felix 
+HMS Felixstowe
+HMS Fellowship 
+HMS Felmersham
+HMS Fencer
+HMS Fenella 
+HMS Fennel 
+HMS Fenton 
+HMS Fergus 
+HMS Fermoy
+HMS Fernie 
+HMS Feroze 
+HMS Ferret
+HMS Ferreter 
+HMS Fervent 
+HMS Feversham
+HMS Fidelity
+HMS Fidget 
+HMS Fierce 
+HMS Fife Ness 
+HMS Fife
+HMS Fifi
+HMS Fighter 
+HMS Fiji
+HMS Filey 
+HMS Finch
+HMS Findhorn 
+HMS Finisterre
+HMS Finwhale
+HMS Fiona
+HMS Fireball 
+HMS Firebrand
+HMS Firedrake
+HMS Firefly
+HMS Firequeen 
+HMS Firm
+HMS Firme 
+HMS Fisgard
+HMS Fishguard
+HMS Fiskerton 
+HMS Fittleton (M1136)
+HMS Fitzroy
+HMS Flambeau 
+HMS Flamborough Head
+HMS Flamborough Prize
+HMS Flamborough
+HMS Flame 
+HMS Flamer 
+HMS Flamingo
+HMS Flash 
+HMS Flax 
+HMS Fleche
+HMS Fleetwood
+HMS Fleur de la Mer (1807)
+HMS Fleur de Lys 
+HMS Flewende Fische 
+HMS Flight 
+HMS Flinders 
+HMS Flint Castle
+HMS Flint 
+HMS Flintham
+HMS Flirt
+HMS Flockton 
+HMS Flora
+HMS Florentina 
+HMS Florida 
+HMS Floriston 
+HMS ''Florizel'' (J404)
+HMS Flower de Luce 
+HMS Fly
+HMS Flying Fish
+HMS Flying Fox
+HMS Flying Greyhound
+HMS Foam
+HMS Foley
+HMS Folkeston
+HMS Folkestone
+HMS Force 
+HMS Ford
+HMS Fordham
+HMS Foresight
+HMS Forest Hill 
+HMS Forester
+HMS Forfar
+HMS Formidable
+HMS Forres
+HMS Fort Erie 
+HMS Fort Diamond
+HMS Fort Francis 
+HMS Fort William 
+HMS Fort York 
+HMS Forte 
+HMS Forth
+HMS Fortitude
+HMS Fortituud 
+HMS Fortune Prize 
+HMS Fortune
+HMS Fortunée 
+HMS Forward
+HMS Foster 
+HMS Fotheringay Castle 
+HMS Foudroyant
+HMS Fougueux 
+HMS Fountain 
+HMS Fowey
+HMS Fowy 
+HMS Fox
+HMS Foxglove
+HMS Foxhound
+HMS Foyle 
+HMS Francis 
+HMS Franklin 
+HMS Fraser 
+HMS Fraserburgh 
+HMS Frederick William
+HMS Frederickstein 
+HMS Frederickswaern 
+HMS Fredericton 
+HMS Freesia 
+HMS Fremantle 
+HMS French Ruby 
+HMS French Victory 
+HMS Frere 
+HMS Frettenham
+HMS Freya 
+HMS Friendship 
+HMS Friezland 
+HMS Fritham
+HMS Fritillary 
+HMS Frobisher
+HMS Frog 
+HMS Frolic
+HMS Frome 
+HMS Frontenac 
+HMS Fubbs 
+HMS Fuerte 
+HMS Fulmar
+HMS Fulminate 
+HMS Fundy 
+HMS Furieuse
+HMS Furious
+HMS Furnace
+HMS Fury
+HMS Fuze 
+HMS Fyen 
+HMS Fylla 
+HMS G1
+HMS G2
+HMS G3
+HMS G4
+HMS G5
+HMS G6
+HMS G7
+HMS G8
+HMS G9
+HMS G10
+HMS G11
+HMS G12
+HMS G13
+HMS G14
+HMS G15 
+HMS Gabbard
+HMS Gabriel Harfleur 
+HMS Gabriel Royal 
+HMS Gabriel
+HMS Gaddesden
+HMS Gadfly
+HMS Gadwell 
+HMS Gael
+HMS Gaiete
+HMS Gaillarda 
+HMS Gainsborough
+HMS Gala 
+HMS Galatea
+HMS Galathee 
+HMS Galgo
+HMS Galicia 
+HMS Gallant
+HMS Gallarita 
+HMS Gallion 
+HMS Galliot 
+HMS Galt 
+HMS Galteemore 
+HMS Gambia
+HMS Gamston 
+HMS Gananoque 
+HMS Ganga 
+HMS Ganges
+HMS Gannet
+HMS Ganymede 
+HMS Gardenia 
+HMS Gardiner
+HMS Garland
+HMS Garlies
+HMS Garnet 
+HMS Garry
+HMS Garth 
+HMS Gascoyne 
+HMS Gaspee
+HMS Gatineau 
+HMS Gatwick 
+HMS Gauntlet 
+HMS Gavinton 
+HMS Gavotte 
+HMS Gawler 
+HMS Gayundah 
+HMS Gazelle 
+HMS Geelong 
+HMS Gelykneid 
+HMS General Abercrombie 
+HMS General Craufurd
+HMS General Grant 
+HMS General Monk 
+HMS General Platt 
+HMS General Wolfe
+HMS Genereux
+HMS Genista
+HMS Genoa 
+HMS Gentian 
+HMS Gentille 
+HMS George 
+HMS George III
+HMS Georgeham
+HMS Georgetown
+HMS Georgiana 
+HMS Geraldton 
+HMS Geranium
+HMS Germaine
+HMS Germoon Prize 
+HMS Gerrans Bay 
+HMS Geyser
+HMS Ghurka
+HMS Gibraltar Prize
+HMS Gibraltar
+HMS Gier 
+HMS Giffard 
+HMS Gifford 
+HMS Gift Minor 
+HMS Gift 
+HMS Giles 
+HMS Gilia 
+HMS Gilliflower 
+HMS Gipsy
+HMS Girdle Ness 
+HMS Gironde 
+HMS Glace Bay 
+HMS Gladiator
+HMS Gladiolus
+HMS Gladstone 
+HMS Glaisdale 
+HMS Glamorgan
+HMS Glasgow
+HMS Glasserton 
+HMS Glassford 
+HMS Glatton
+HMS Gleaner
+HMS Glenabyn 
+HMS Glenarm 
+HMS Glenearn 
+HMS Glenelg 
+HMS Glengyle
+HMS Glenmore 
+HMS Glenroy 
+HMS Glentham
+HMS Globe 
+HMS Gloire
+HMS Glommen 
+HMS Glorieux
+HMS Gloriosa 
+HMS Glorioso 
+HMS Glorious
+HMS Glory Iv 
+HMS Glory
+HMS Gloucester
+HMS Glowworm
+HMS Gloxinia 
+HMS Gluckstadt 
+HMS Gnat
+HMS Goathland 
+HMS Godavari 
+HMS Goderich 
+HMS Godetia 
+HMS Goelan
+HMS Gold Coast
+HMS Golden Falcon 
+HMS Golden Fleece 
+HMS Golden Hind 
+HMS Golden Horse 
+HMS Golden Lion 
+HMS Golden Rose 
+HMS Goldfinch
+HMS Goliath
+HMS Gomati 
+HMS Gondwana 
+HMS Good Fortune 
+HMS Good Hope
+HMS Good Intent 
+HMS Good Will 
+HMS Goodall
+HMS Goodson
+HMS Goodwin 
+HMS Goodwood 
+HMS Goole
+HMS Goose Bay 
+HMS Gordon 
+HMS Gore
+HMS Goree
+HMS Gorey Castle 
+HMS Gorgon
+HMS Gorleston 
+HMS Goshawk
+HMS Gosport
+HMS Gossamer 
+HMS Goulburn 
+HMS Gould
+HMS Gozo
+HMS Grace Dieu
+HMS Grace of God 
+HMS Grace 
+HMS Grafton
+HMS Gramont 
+HMS Grampian 
+HMS Grampus
+HMS Grana 
+HMS Granby 
+HMS Grand Turk 
+HMS Grandmere 
+HMS Grandmistress 
+HMS Granicus 
+HMS Grantham 
+HMS Graph
+HMS Grappler
+HMS Grass Snake 
+HMS Grasshopper
+HMS Gravelines
+HMS Grayfly 
+HMS Grays 
+HMS Great Barbara 
+HMS Great Bark 
+HMS Great Elizabeth 
+HMS Great Galley 
+HMS Great Harry 
+HMS Great Nicholas 
+HMS Great Pinnace 
+HMS Great Zabra 
+HMS Greatford 
+HMS Grebe
+HMS Grecian
+HMS Green Linnet 
+HMS Greenfish 
+HMS Greenfly 
+HMS Greenock 
+HMS Greenwich
+HMS Greetham
+HMS Grenada 
+HMS Grenade
+HMS Grenado 
+HMS Grenville
+HMS Gretna
+HMS Grey Fox 
+HMS Grey Wolf 
+HMS Greyhond 
+HMS Greyhound
+HMS Griffin
+HMS Griffon
+HMS Grille 
+HMS Grilse 
+HMS Grimsby
+HMS Grindall
+HMS Grinder
+HMS Griper
+HMS Grisle 
+HMS Grou 
+HMS Grouper
+HMS Grove
+HMS Growler 
+HMS Guachapin 
+HMS Guadeloupe
+HMS Guardian
+HMS Guardland 
+HMS Guelderland 
+HMS Guelph 
+HMS Guepe 
+HMS Guernsey
+HMS Guerriere
+HMS Guilder De Ruyter 
+HMS Guildford Castle 
+HMS Guildford 
+HMS Guillemot 
+HMS Guinea 
+HMS Guinevere 
+HMS Gull 
+HMS Gulland
+HMS Gulnare 
+HMS Gurkha
+HMS Guysborough 
+HMS Gympie 
+HMS Gypsy
+HMS (H)1
+HMS (H)2
+HMS (H)3
+HMS (H)4
+HMS (H)5
+HMS (H)6
+HMS H1
+HMS H2
+HMS H3
+HMS H4
+HMS H5
+HMS H6
+HMS H7
+HMS H8
+HMS H9
+HMS H10
+HMS H11
+HMS H12
+HMS H13
+HMS H14
+HMS H15
+HMS H16
+HMS H17
+HMS H18
+HMS H19
+HMS H20
+HMS H21
+HMS H22
+HMS H23
+HMS H24
+HMS H25
+HMS H26
+HMS H27 
+HMS H28
+HMS H29
+HMS H30
+HMS H31
+HMS H32
+HMS H33
+HMS H34
+HMS H35 
+HMS H36 
+HMS H37 
+HMS H38 
+HMS H39 
+HMS H40 
+HMS H41
+HMS H42
+HMS H43
+HMS H44
+HMS H45 
+HMS H46 
+HMS H47
+HMS H48
+HMS H49
+HMS H50
+HMS H51
+HMS H52
+HMS H53 
+HMS Haddock
+HMS Hadleigh Castle 
+HMS Haerlem 
+HMS Haida 
+HMS Halberd 
+HMS Halcyon
+HMS Haldon
+HMS Half Moon 
+HMS Halifax
+HMS Halladale 
+HMS Hallowell 
+HMS Halsham
+HMS Halstarr (1807)
+HMS Halstead
+HMS Hamadryad
+HMS Hambledon
+HMS Hamilton 
+HMS Hampshire
+HMS Hampton Court 
+HMS Hampton 
+HMS Handmaid 
+HMS Handy
+HMS Hannam 
+HMS Hannibal
+HMS Happy Entrance
+HMS Happy Ladd 
+HMS Happy Return 
+HMS Happy 
+HMS Hardi 
+HMS Hardinge 
+HMS Hardrock 
+HMS Hardy
+HMS Hare 
+HMS Harebell 
+HMS Harereen 
+HMS Harfruen 
+HMS Hargood
+HMS Harland 
+HMS Harlech 
+HMS Harlequin
+HMS Harman 
+HMS Harp 
+HMS Harpenden 
+HMS Harpham
+HMS Harpy 
+HMS Harrier
+HMS Harriot 
+HMS Harrow 
+HMS Hart 
+HMS Hartland Point 
+HMS Hartland 
+HMS Hartlepool 
+HMS Harvester
+HMS Harwich
+HMS Hastings
+HMS Hasty
+HMS Hatherleigh 
+HMS Haughty
+HMS Havannah
+HMS Havant 
+HMS Havelock
+HMS Haversham
+HMS Havock
+HMS Hawea 
+HMS Hawk
+HMS Hawke
+HMS Hawkins
+HMS Hawthorn 
+HMS Haydon 
+HMS Hayling 
+HMS Hazard Prize 
+HMS Hazard
+HMS Hazardous 
+HMS Hazleton 
+HMS Heart of Oak 
+HMS Heartsease
+HMS Hearty
+HMS Heather
+HMS Hebe
+HMS Hecate
+HMS Hecla
+HMS Hector
+HMS Hedingham Castle
+HMS Heir Apparent 
+HMS Helder 
+HMS Helderenberg 
+HMS Heldin 
+HMS Helena
+HMS Helford 
+HMS Helicon 
+HMS Heliotrope
+HMS Helmsdale 
+HMS Helmsley Castle 
+HMS Helverson
+HMS Hemlock 
+HMS Henrietta Maria
+HMS Henrietta
+HMS Henry Galley 
+HMS Henry Grace a Dieu 
+HMS Henry of Hampton 
+HMS Henry Prize 
+HMS Henry 
+HMS Henryville 
+HMS Hepatica 
+HMS Herald
+HMS Herbrus 
+HMS Hercules
+HMS Hereward
+HMS Hermes
+HMS Hermione
+HMS Herne Bay 
+HMS Hero
+HMS Heroine
+HMS Heron
+HMS Hespeler 
+HMS Hesper
+HMS Hesperus
+HMS Hestor 
+HMS Heureux
+HMS Hever Castle 
+HMS Hexham 
+HMS Hexton 
+HMS Heythorp 
+HMS Hibernia
+HMS Hibiscus
+HMS Highburton 
+HMS Highflyer
+HMS Highlander
+HMS Highway 
+HMS Hilary
+HMS Hildersham
+HMS Hillary 
+HMS Himalaya
+HMS Hinchinbrook
+HMS Hind
+HMS Hindostan
+HMS Hindustan
+HMS Hinksford 
+HMS Hippomenes
+HMS Hirondelle 
+HMS Hobart
+HMS Hodgeston
+HMS Hogue
+HMS Holcombe 
+HMS Holderness 
+HMS Holdernesse 
+HMS Holighose 
+HMS Holigost Spayne 
+HMS Holigost 
+HMS Hollesley Bay 
+HMS Holly 
+HMS Hollyhock
+HMS Holm Sound
+HMS Holmes
+HMS Holstein
+HMS Honesty 
+HMS Honeysuckle 
+HMS Hong Kong
+HMS Hood
+HMS Hope Prize 
+HMS Hope
+HMS Hopewell 
+HMS Horatio 
+HMS Hornby 
+HMS Hornet
+HMS Hornpipe 
+HMS Horseman 
+HMS Horsleydown 
+HMS Hospital Ship No.22 
+HMS Hoste
+HMS Hostile
+HMS Hotham
+HMS Hotspur
+HMS Houghton 
+HMS Hound
+HMS House de Swyte 
+HMS Hoverfly 
+HMS Hovingham
+HMS Howe
+HMS Howett 
+HMS Howitzer 
+HMS Hubberston 
+HMS Hugh Lindsay 
+HMS Hugh Rose 
+HMS Hughes 
+HMS Hulvul 
+HMS Humber
+HMS Humberstone 
+HMS Hunter
+HMS Huntley 
+HMS Huntsville 
+HMS Huron 
+HMS Hurricane
+HMS Hursley
+HMS Hurst Castle (K416)
+HMS Hurst 
+HMS Hurworth
+HMS Hussar
+HMS Hyacinth
+HMS Hyaena
+HMS Hyderabad
+HMS Hydra
+HMS Hydrangea 
+HMS Hygeia 
+HMS Hyperion
+HMS Hythe
+HMS Ibis
+HMS Icarus
+HMS Icicle (1814)
+HMS Ickford 
+HMS Ignotion 
+HMS Ildefonso
+HMS Ilex
+HMS Ilfracombe 
+HMS Illustrious
+HMS Ilmington 
+HMS Ilston 
+HMS Imaum 
+HMS Immortalite
+HMS Imogen
+HMS Imogene
+HMS Imperial
+HMS Imperieuse
+HMS Impeteux 
+HMS Impey 
+HMS Implacable
+HMS Impregnable
+HMS Impulsive
+HMS Incendiary
+HMS Incharran 
+HMS Inconstant
+HMS Increase 
+HMS Indefatigable
+HMS Independencia 
+HMS Indian 
+HMS Indignant 
+HMS Indomitable
+HMS Indus
+HMS Industry 
+HMS Infanta Don Carlos 
+HMS Infanta 
+HMS Infernal 
+HMS Inflexible
+HMS Inglefield
+HMS Inglesham
+HMS Inglis 
+HMS Ingonish 
+HMS Inman
+HMS Inscrutable 
+HMS Insolent 
+HMS Inspector 
+HMS Instow 
+HMS Integrity
+HMS Intelligence 
+HMS Intelligent 
+HMS Intrepid
+HMS Invention 
+HMS Invermoriston 
+HMS Inverness 
+HMS Investigator
+HMS Inveterate 
+HMS Invicta
+HMS Invincible
+HMS Iolaire
+HMS Iphigenia
+HMS Ipswich 
+HMS Iris II
+HMS Iron Duke
+HMS Iroquois 
+HMS Irresistible
+HMS Irvine 
+HMS Irwell 
+HMS Isabella 
+HMS Isham
+HMS Isinglass 
+HMS Isis
+HMS Iskra 
+HMS Islay
+HMS Isle of Wight 
+HMS Islip 
+HMS Ister 
+HMS Itchen
+HMS Ithuriel
+HMS Ivanhoe
+HMS Iveston
+HMS Ivy
+HMS J1
+HMS J2
+HMS J3
+HMS J4
+HMS J5
+HMS J6
+HMS J7
+HMS Jack Tar 
+HMS Jack 
+HMS Jackal
+HMS Jackdaw
+HMS Jackton
+HMS Jaguar
+HMS Jahangir 
+HMS Jahde (1809)
+HMS Jalouse 
+HMS Jamaica
+HMS James & Eliza 
+HMS James Bay 
+HMS James Galley 
+HMS James Watt
+HMS James
+HMS Jamuna 
+HMS Janissary
+HMS Janus
+HMS Jaseur
+HMS Jasmine 
+HMS Jason
+HMS Jasper
+HMS Java
+HMS Javelin
+HMS Jed 
+HMS Jellicoe 
+HMS Jemmy 
+HMS Jennet Pyrwin 
+HMS Jennet 
+HMS Jeremiah 
+HMS Jerfalcon 
+HMS Jersey
+HMS Jervis Bay
+HMS Jervis
+HMS Jessamine 
+HMS Jesus & Mary 
+HMS Jesus of Lubeck 
+HMS Jesus 
+HMS Jewel 
+HMS John & Alexander 
+HMS John & Martha 
+HMS John & Peter 
+HMS John & Sarah 
+HMS John Ballinger 
+HMS John Baptist 
+HMS John Evangelist 
+HMS John of Dublin 
+HMS John of Greenwich 
+HMS John 
+HMS Johnson 
+HMS Jolly 
+HMS Jonquil 
+HMS Joseph Straker 
+HMS Joseph 
+HMS Josiah 
+HMS Joyful 
+HMS Jubilant 
+HMS Julia 
+HMS Julian 
+HMS Julius 
+HMS Jumna
+HMS Juniper
+HMS Juno
+HMS Junon
+HMS Jupiter
+HMS Juste
+HMS Justitia
+HMS Jutland
+HMS K1
+HMS K2
+HMS K3
+HMS K4
+HMS K5
+HMS K6
+HMS K7
+HMS K8
+HMS K9
+HMS K10
+HMS K11
+HMS K12
+HMS K13
+HMS K14
+HMS K15
+HMS K16
+HMS K17
+HMS K18 
+HMS K19 
+HMS K20 
+HMS K21 
+HMS K22
+HMS K23 
+HMS K24 
+HMS K25 
+HMS K26
+HMS K27 
+HMS K28 
+HMS Kale
+HMS Kalgoorlie 
+HMS Kandahar
+HMS Kangaroo
+HMS Kaniere 
+HMS Karanja 
+HMS Karrakatta (1889)
+HMS Kashmir
+HMS Katherine Bark 
+HMS Katherine Breton 
+HMS Katherine Fortileza 
+HMS Katherine Galley 
+HMS Katherine
+HMS Katoomba 
+HMS Keats
+HMS Kedleston 
+HMS Keith
+HMS Kellett 
+HMS Kellington
+HMS Kelly
+HMS Kelvin
+HMS Kemerton
+HMS Kempenfelt
+HMS Kempthorne
+HMS Kempton 
+HMS Kendal 
+HMS Kenilworth Castle
+HMS Kennet 
+HMS Kennington 
+HMS Kent
+HMS Kentish
+HMS Kenya
+HMS Keppel
+HMS Keren 
+HMS Kertch 
+HMS Kestrel
+HMS Kew 
+HMS Khartoum
+HMS Khedive
+HMS Kiawo 
+HMS Kilbane 
+HMS Kilbarchan 
+HMS Kilbeggan 
+HMS Kilberry 
+HMS Kilbirnie 
+HMS Kilbrachan 
+HMS Kilbride 
+HMS Kilbrittain 
+HMS Kilburn 
+HMS Kilby 
+HMS Kilcar 
+HMS Kilcavan 
+HMS Kilchattan 
+HMS Kilchreest 
+HMS Kilchrenan
+HMS Kilchvan 
+HMS Kilclare 
+HMS Kilcolgan 
+HMS Kilconnan 
+HMS Kilconnel 
+HMS Kilcoole 
+HMS Kilcornie 
+HMS Kilcot 
+HMS Kilcreggan 
+HMS Kilcullen 
+HMS Kilcurrig 
+HMS Kildale 
+HMS Kildarton 
+HMS Kildary 
+HMS Kildavin 
+HMS Kildimo 
+HMS Kildonan 
+HMS Kildorough 
+HMS Kildorry 
+HMS Kildpart 
+HMS Kildress 
+HMS Kildwick 
+HMS Kilfenora 
+HMS Kilfinny 
+HMS Kilfree 
+HMS Kilfullert 
+HMS Kilgarvan 
+HMS Kilglass 
+HMS Kilgobnet 
+HMS Kilgowan 
+HMS Kilham 
+HMS Kilhampton 
+HMS Kilkee 
+HMS Kilkeel 
+HMS Kilkenny 
+HMS Kilkenzie 
+HMS Kilkerrin 
+HMS Kilkhampton 
+HMS Killadoon 
+HMS Killaloo 
+HMS Killane 
+HMS Killarney 
+HMS Killary 
+HMS Killegan 
+HMS Killegar 
+HMS Killena 
+HMS Killerig 
+HMS Killiecrankie 
+HMS Killiney 
+HMS Killour 
+HMS Killowen 
+HMS Killybegs 
+HMS Killygordon 
+HMS Kilmacrennan 
+HMS Kilmaine 
+HMS Kilmalcolm 
+HMS Kilmallock 
+HMS Kilmanahan 
+HMS Kilmarnock 
+HMS Kilmartin 
+HMS Kilmead 
+HMS Kilmelford 
+HMS Kilmersdon 
+HMS Kilmington 
+HMS Kilmore 
+HMS Kilmorey 
+HMS Kilmuckridge 
+HMS Kilmun 
+HMS Kimberley
+HMS Kincardine 
+HMS King Alfred
+HMS King David 
+HMS King Edward VII
+HMS King George V
+HMS King of Prussia 
+HMS Kingcup 
+HMS Kingfish 
+HMS Kingfisher
+HMS Kingham
+HMS Kingsale 
+HMS Kingsford 
+HMS Kingsmill
+HMS Kingston
+HMS Kingussie 
+HMS Kinnairds Head 
+HMS Kinross
+HMS Kinsale 
+HMS Kinsha 
+HMS Kipling 
+HMS Kirkliston
+HMS Kistna 
+HMS Kitchen 
+HMS Kite
+HMS Kittiwake 
+HMS Knaresborough Castle
+HMS Knole 
+HMS Krakowiak
+HMS Kronprincen 
+HMS Kronprincessen 
+HMS Kujawiak 
+HMS L1
+HMS L2
+HMS L3
+HMS L4
+HMS L5
+HMS L6
+HMS L7
+HMS L8
+HMS L9
+HMS L10
+HMS L11
+HMS L12
+HMS L14
+HMS L15
+HMS L16
+HMS L17
+HMS L18
+HMS L19
+HMS L20
+HMS L21
+HMS L22
+HMS L23
+HMS L24
+HMS L25
+HMS L26
+HMS L27
+HMS L33
+HMS L52
+HMS L53
+HMS L54
+HMS L55
+HMS L56
+HMS L69
+HMS L71
+HMS La Capricieuse
+HMS La Chieftain 
+HMS La Combatante 
+HMS La Cordeliere 
+HMS La Flore 
+HMS La Hulloise 
+HMS La Loire 
+HMS La Malbai 
+HMS La Malouine 
+HMS La Melpomène 
+HMS La Moqueuse 
+HMS Abundance
+HMS Labuan
+HMS Laburnum
+HMS Lacedaemonian
+HMS Lachine 
+HMS Lachlan 
+HMS Lachute 
+HMS Ladas 
+HMS Ladava 
+HMS Lady Canning 
+HMS Lady Falkland 
+HMS Lady Loch 
+HMS Lady Nelson (1798)
+HMS Lady Prevost
+HMS Ladybird
+HMS Lae 
+HMS Laertes
+HMS Laforey
+HMS Lagan 
+HMS L'Aglaia 
+HMS Lal 
+HMS Laleston 
+HMS Lalmourn 
+HMS Lamerton 
+HMS Lamport 
+HMS Lanark 
+HMS Lancaster Castle
+HMS Lancaster
+HMS Lance
+HMS Landguard 
+HMS Landrail
+HMS Langport 
+HMS Lantau 
+HMS Lanton 
+HMS Lapwing
+HMS Largo Bay 
+HMS Largs
+HMS Lark
+HMS Larke 
+HMS Larkspur 
+HMS Larne
+HMS Lasalle 
+HMS Lasham
+HMS Lassoo
+HMS Latona
+HMS Latrobe 
+HMS Lauderdale 
+HMS Launceston Castle
+HMS Launceston 
+HMS Laura 
+HMS Laurel
+HMS Laurestinus 
+HMS Lauzon 
+HMS Lavender 
+HMS Laverock 
+HMS Lavinia 
+HMS Lawford
+HMS Lawrence 
+HMS Lawson
+HMS Laymoor 
+HMS Le Havre 
+HMS Le Robecque 
+HMS Le Triomphant 
+HMS Leamington
+HMS Leander
+HMS Leaside 
+HMS Leda
+HMS Ledbury
+HMS Ledsham
+HMS Lee
+HMS Leeds Castle
+HMS Leeds 
+HMS Leeuwin 
+HMS Legere 
+HMS Legion
+HMS Leicester 
+HMS Leighton 
+HMS Leith
+HMS Lennox
+HMS Lenox
+HMS Leocadia 
+HMS Leonidas
+HMS Leopard
+HMS Leopard's Whelp 
+HMS Lethbridge 
+HMS L'Etoile 
+HMS Letterston 
+HMS Levant
+HMS Leven
+HMS Leveret
+HMS Leverton 
+HMS Leviathan
+HMS Levis 
+HMS Lewes
+HMS Lewiston 
+HMS Leyden 
+HMS L'Hercule 
+HMS Li Wo
+HMS Liberty
+HMS Lichfield Prize 
+HMS Lichfield
+HMS Licorne 
+HMS Liddesdale 
+HMS Liffey
+HMS Ligaera 
+HMS Lightfoot 
+HMS Lightning
+HMS Lilac 
+HMS Lily
+HMS Limbourne 
+HMS L'Impassable 
+HMS Linaria 
+HMS Lincoln
+HMS L'Incomprise 
+HMS Lindisfarne 
+HMS Lindsey 
+HMS Ling 
+HMS Linganbar 
+HMS Lingfield 
+HMS Linnet
+HMS Lion
+HMS Lioness 
+HMS Lion's Whelp 
+HMS Lisburne 
+HMS Lismore 
+HMS Liston 
+HMS Listowel 
+HMS Lithgow 
+HMS Little Belt
+HMS Little Charity 
+HMS Little London 
+HMS Little Unicorn 
+HMS Little Victory 
+HMS Littleham
+HMS Lively
+HMS Liverpool
+HMS Lizard
+HMS Llandaff
+HMS Llandudno 
+HMS Llewellyn
+HMS Lobelia 
+HMS Loch Achanault 
+HMS Loch Achray 
+HMS Loch Affric 
+HMS Loch Alvie
+HMS Loch Ard 
+HMS Loch Arkaig 
+HMS Loch Arklet 
+HMS Loch Arnish 
+HMS Loch Assynt 
+HMS Loch Awe 
+HMS Loch Badcall 
+HMS Loch Boisdale 
+HMS Loch Bracadale 
+HMS Loch Carloway 
+HMS Loch Caroy 
+HMS Loch Carron 
+HMS Loch Clunie 
+HMS Loch Coulside 
+HMS Loch Craggie 
+HMS Loch Cree 
+HMS Loch Creran 
+HMS Loch Doine 
+HMS Loch Doon 
+HMS Loch Dunvegan
+HMS Loch Earn 
+HMS Loch Eck
+HMS Loch Eil 
+HMS Loch Enock 
+HMS Loch Ericht 
+HMS Loch Erisort 
+HMS Loch Eye 
+HMS Loch Eynort 
+HMS Loch Fada
+HMS Loch Fannich 
+HMS Loch Fionn 
+HMS Loch Frisa 
+HMS Loch Fyne 
+HMS Loch Garasdale 
+HMS Loch Garve 
+HMS Loch Glashan 
+HMS Loch Glendhu
+HMS Loch Goil 
+HMS Loch Gorm 
+HMS Loch Griam 
+HMS Loch Harport 
+HMS Loch Harray 
+HMS Loch Heilen 
+HMS Loch Hourne 
+HMS Loch Inchard 
+HMS Loch Insh
+HMS Loch Katrine 
+HMS Loch Ken 
+HMS Loch Kilbirnie 
+HMS Loch Killin
+HMS Loch Killisport
+HMS Loch Kirbister 
+HMS Loch Kirkaig 
+HMS Loch Kishorn 
+HMS Loch Knockie 
+HMS Loch Laro 
+HMS Loch Laxford 
+HMS Loch Linfern 
+HMS Loch Linnhe 
+HMS Loch Lomond
+HMS Loch Lubnaig 
+HMS Loch Lurgain 
+HMS Loch Lydoch 
+HMS Loch Lyon 
+HMS Loch Maberry 
+HMS Loch Maddy 
+HMS Loch Minnick 
+HMS Loch Mochrum 
+HMS Loch More
+HMS Loch Morlich 
+HMS Loch Muick 
+HMS Loch Nell 
+HMS Loch Odairn 
+HMS Loch Ossain 
+HMS Loch Quoich 
+HMS Loch Roan 
+HMS Loch Ronald 
+HMS Loch Ruthven 
+HMS Loch Ryan 
+HMS Loch Scamdale 
+HMS Loch Scavaig 
+HMS Loch Scridain 
+HMS Loch Seaforth
+HMS Loch Sheallag 
+HMS Loch Sheil 
+HMS Loch Shin 
+HMS Loch Skaig 
+HMS Loch Skerrow 
+HMS Loch Stemster 
+HMS Loch Stenness 
+HMS Loch Striven 
+HMS Loch Sunart 
+HMS Loch Swannay 
+HMS Loch Swin 
+HMS Loch Tanna 
+HMS Loch Tarbert 
+HMS Loch Tilt 
+HMS Loch Torridon 
+HMS Loch Tralaig 
+HMS Loch Tummel 
+HMS Loch Urigill 
+HMS Loch Vanavie 
+HMS Loch Vennachar 
+HMS Loch Veyatie 
+HMS Loch Watten 
+HMS Lochinvar
+HMS Lochy 
+HMS Lockeport 
+HMS Locust
+HMS Lofoten
+HMS London
+HMS Londonderry
+HMS Longbow 
+HMS Longbranch 
+HMS Longford 
+HMS Longueuil 
+HMS Lonsdale 
+HMS Looe
+HMS Lookout
+HMS Loosestrife 
+HMS Lord Clive
+HMS Lord Howe 
+HMS Lord Melville
+HMS Lord Nelson
+HMS Lord Nuffield 
+HMS Lord Raglan 
+HMS Lord Roberts 
+HMS Lord Warden
+HMS Loring
+HMS Lossie
+HMS Lothian
+HMS Lotus
+HMS Louis
+HMS Louisa
+HMS Louisburg 
+HMS Louvain
+HMS Love and Friendship 
+HMS Lowestoffe Prize 
+HMS Lowestoffe
+HMS Lowestoft
+HMS Loyal Chancellor 
+HMS Loyal Example 
+HMS Loyal Exploit 
+HMS Loyal Explorer 
+HMS Loyal Express 
+HMS Loyal London
+HMS Loyal Watcher 
+HMS Loyal
+HMS Loyalist
+HMS Loyalty
+HMS LST 3001 
+HMS LST 3002
+HMS LST 3003 
+HMS LST 3004 
+HMS LST 3005 
+HMS LST 3006 
+HMS LST 3007 
+HMS LST 3008
+HMS LST 3009 
+HMS LST 3010
+HMS LST 3011 
+HMS LST 3012 
+HMS LST 3013 
+HMS LST 3014
+HMS LST 3015 
+HMS LST 3016 
+HMS LST 3017
+HMS LST 3018 
+HMS LST 3019 
+HMS LST 3020 
+HMS LST 3021 
+HMS LST 3022
+HMS LST 3023 
+HMS LST 3024 
+HMS LST 3025 
+HMS LST 3026 
+HMS LST 3027
+HMS LST 3028 
+HMS LST 3029 
+HMS LST 3030 
+HMS LST 3031 
+HMS LST 3032 
+HMS LST 3033 
+HMS LST 3034 
+HMS LST 3035
+HMS LST 3036 
+HMS LST 3037 
+HMS LST 3038 
+HMS LST 3039 
+HMS LST 3040 
+HMS LST 3041
+HMS LST 3042
+HMS LST 3043 
+HMS LST 3044 
+HMS LST 3045 
+HMS LST 3501
+HMS LST 3502 
+HMS LST 3503 
+HMS LST 3504 
+HMS LST 3505 
+HMS LST 3506 
+HMS LST 3507 
+HMS LST 3508 
+HMS LST 3509 
+HMS LST 3510 
+HMS LST 3511 
+HMS LST 3512
+HMS LST 3513 
+HMS LST 3514 
+HMS LST 3515
+HMS LST 3516 
+HMS LST 3517 
+HMS LST 3518 
+HMS LST 3519
+HMS LST 3520 
+HMS LST 3521 
+HMS LST 3522 
+HMS LST 3523 
+HMS LST 3524 
+HMS LST 3525 
+HMS LST 3526 
+HMS LST 3527 
+HMS LST 3528 
+HMS LST 3530 
+HMS LST 3531 
+HMS LST 3532 
+HMS LST 3533 
+HMS LST 3534
+HMS LST 3535 
+HMS Luce Bay 
+HMS Lucia 
+HMS Lucifer 
+HMS Ludham
+HMS Ludlow Castle 
+HMS Ludlow
+HMS Lullington 
+HMS Lulworth 
+HMS Lunenburg 
+HMS Lupin 
+HMS Lurcher
+HMS Lusitania 
+HMS Lutin 
+HMS Lutine
+HMS Lychnis
+HMS Lydd 
+HMS Lydiard
+HMS Lydney 
+HMS Lyemun 
+HMS Lyme Regis 
+HMS Lyme
+HMS Lynn 
+HMS Lynx
+HMS Lyra
+HMS Lys 
+HMS Lysander
+HMS M1
+HMS M2
+HMS M13 
+HMS M14 
+HMS M15
+HMS M16
+HMS M17
+HMS M18
+HMS M19
+HMS M20
+HMS M21
+HMS M22
+HMS M23
+HMS M24
+HMS M25
+HMS M26
+HMS M27
+HMS M28
+HMS M29
+HMS M30
+HMS M31
+HMS M32
+HMS M33
+HMS MI 
+HMS MII 
+HMS MIII 
+HMS MIV 
+HMS MV 
+HMS MVI 
+HMS MVII 
+HMS MVIII 
+HMS MTB102
+HMS MV1 
+HMS MV2 
+HMS MV3 
+HMS MV4 
+HMS MV5 
+HMS MV6 
+HMS MV7 
+HMS MV8 
+HMS MV9 
+HMS MV10 
+HMS MV11 
+HMS MV12 
+HMS MV13 
+HMS MV14 
+HMS MV15 
+HMS MV16 
+HMS MV17 
+HMS MV18 
+HMS MV19 
+HMS MV20 
+HMS MV21 
+HMS MV22 
+HMS Celebes (1806)
+HMS Macduff 
+HMS Macedonian
+HMS Machine 
+HMS Mackay 
+HMS Mackerel
+HMS Madagascar
+HMS Maddiston 
+HMS Madras 
+HMS Maeander
+HMS Maenad
+HMS Maesterland 
+HMS Magdala
+HMS Magdalen 
+HMS Magic
+HMS Magician 
+HMS Magicienne
+HMS Magnanime
+HMS Magnet
+HMS Magnificent
+HMS Magpie
+HMS Mahonesa 
+HMS Mahratta
+HMS Maiden Castle 
+HMS Maidstone
+HMS Majestic
+HMS Malabar
+HMS Malacca
+HMS Malaga Merchant 
+HMS Malaya
+HMS Malcolm
+HMS Malham
+HMS Malice 
+HMS Mallard
+HMS Malling Castle 
+HMS Mallow
+HMS Malmesbury Castle 
+HMS Maloja 
+HMS Malplaquet 
+HMS Malta
+HMS Malvern 
+HMS Mamaduke 
+HMS Mameluke 
+HMS Manchester
+HMS Mandarin (1810)
+HMS Mandate
+HMS Mandrake 
+HMS Manela 
+HMS Manica
+HMS Manilla 
+HMS Manly
+HMS Manners
+HMS Mansfield
+HMS Mantis 
+HMS Manxman
+HMS Maori
+HMS Maplin 
+HMS Marathon 
+HMS Marazion
+HMS Marengo 
+HMS Margaret 
+HMS Margate 
+HMS Margett 
+HMS Marguerite
+HMS Maria de Loreto 
+HMS Maria Prize 
+HMS Maria Sancta 
+HMS Maria Sandwich 
+HMS Maria Spayne 
+HMS Maria
+HMS Mariana 
+HMS Marianne 
+HMS Marie Antoinette
+HMS Marigold
+HMS Mariner
+HMS Marjoram 
+HMS Marksman
+HMS Marlborough
+HMS Marlingford 
+HMS Marlion 
+HMS Marlow 
+HMS Marmion
+HMS Marne
+HMS Maroon 
+HMS Marquise de Seignelay 
+HMS Mars
+HMS Marshal Ney
+HMS Marshal Soult
+HMS Marston Moor 
+HMS Martah & Mary 
+HMS Martial 
+HMS Martin Garcia 
+HMS Martin
+HMS Marvel 
+HMS Mary & John 
+HMS Mary Ann 
+HMS Mary Antrim 
+HMS Mary Breton 
+HMS Mary Flyboat 
+HMS Mary Fortune 
+HMS Mary Galley
+HMS Mary George 
+HMS Mary Gloria 
+HMS Mary Grace
+HMS Mary Guildford 
+HMS Mary Hamboro 
+HMS Mary Hampton 
+HMS Mary Imperial 
+HMS Mary James
+HMS Mary Norwell 
+HMS Mary Odierne 
+HMS Mary of Rouen 
+HMS Mary Prize 
+HMS Mary Rose
+HMS Mary Thomas 
+HMS Mary Willoughby
+HMS Mary
+HMS Maryanee 
+HMS Maryborough 
+HMS Maryport 
+HMS Maryton 
+HMS Mashona
+HMS Mason 
+HMS Mastiff 
+HMS Matabele
+HMS Matane 
+HMS Matapan
+HMS Matchless
+HMS Mathias 
+HMS Matilda 
+HMS Matthew 
+HMS Mauritius
+HMS Mavourneen 
+HMS Mawdelyn 
+HMS Maxton 
+HMS May Frere 
+HMS Mayflower 
+HMS Mayfly
+HMS Mayford 
+HMS Mazurka 
+HMS Meadowsweet 
+HMS Meclenburgh 
+HMS Meda
+HMS Medea
+HMS Medee 
+HMS Mediator
+HMS Medina 
+HMS Mediterranean 
+HMS Medora 
+HMS Medusa
+HMS Medway
+HMS Medway II 
+HMS Medway Prize
+HMS Meeanne 
+HMS Meermin 
+HMS Megaera
+HMS Melampe 
+HMS Melampus
+HMS Melbreak (L73) 
+HMS Meleager
+HMS Melita
+HMS Melpomene
+HMS Melton
+HMS Melville
+HMS Memnon 
+HMS Menace 
+HMS Menai 
+HMS Mendip
+HMS Menelaus 
+HMS Menestheus 
+HMS Mentor
+HMS Meon 
+HMS Mercure 
+HMS Mercurius 
+HMS Mercury
+HMS Meredith
+HMS Merhonour
+HMS Merlin
+HMS Mermaid
+HMS Merope (1808)
+HMS Merry Hampton 
+HMS Mersey
+HMS Mersham
+HMS Messenger 
+HMS Messina 
+HMS Meteor
+HMS Meteorite
+HMS Meynell 
+HMS Michael 
+HMS Mickleham
+HMS Middlesbrough 
+HMS Middleton
+HMS Midge 
+HMS Mignonette 
+HMS Mignonne
+HMS Milan
+HMS Milbrook
+HMS Mileham
+HMS Milfoil 
+HMS Milford
+HMS Milne
+HMS Mimi
+HMS Mimico 
+HMS Mimosa 
+HMS Minas 
+HMS Minden
+HMS Mindful 
+HMS Minehead 
+HMS Miner I 
+HMS Miner II 
+HMS Miner III 
+HMS Miner IV 
+HMS Miner V 
+HMS Miner VI 
+HMS Miner VII 
+HMS Miner VIII 
+HMS Minerva
+HMS Minerve
+HMS Mingan 
+HMS Minion 
+HMS Minnikin 
+HMS Minorca 
+HMS Minoru 
+HMS Minos
+HMS Minotaur
+HMS Minstrel 
+HMS Minto 
+HMS Minuet 
+HMS Minx 
+HMS Miramichi 
+HMS Miranda
+HMS Mischief 
+HMS Misoa (F117)
+HMS Mistletoe 
+HMS Mistley 
+HMS Mistral 
+HMS Mitchell
+HMS Moa 
+HMS Modbury 
+HMS Moderate 
+HMS Modeste
+HMS Mohawk
+HMS Moira
+HMS Monaghan 
+HMS Monarca 
+HMS Monarch
+HMS Monck Prize 
+HMS Monck
+HMS Mondara 
+HMS Mondovi 
+HMS Mongoose 
+HMS Monitor 
+HMS Monkey
+HMS Monkshood 
+HMS Monkton 
+HMS Monmouoth Castle 
+HMS Monmouth
+HMS Monow 
+HMS Monowai
+HMS Mons 
+HMS Monsieur 
+HMS Mont Blanc
+HMS Montagu
+HMS Montbretia 
+HMS Montego Bay 
+HMS Montford 
+HMS Montgomery
+HMS Montreal
+HMS Montrose
+HMS Montserrat
+HMS Moon 
+HMS Moorhen
+HMS Moorsom
+HMS Moray Firth 
+HMS Mordaunt
+HMS Morecambe Bay
+HMS Moresby 
+HMS Morgiana 
+HMS Morne Fortunee 
+HMS Morning Star
+HMS Moro 
+HMS Morpeth Castle 
+HMS Morris Dance
+HMS Morris 
+HMS Mortar 
+HMS Mosambique (1804)
+HMS Moselle 
+HMS Moslem 
+HMS Mosquito
+HMS Mosquidobit (1813)
+HMS Moth
+HMS Moucheron (1802)
+HMS Mounsey
+HMS Mount Edgcumbe 
+HMS Mounts Bay
+HMS Mourne 
+HMS Moy 
+HMS Moyola 
+HMS Mullett
+HMS Mulgrave 
+HMS Mull of Galloway 
+HMS Mull of Kintyre 
+HMS Mull of Oa 
+HMS Mull 
+HMS Mullett
+HMS Mullion Cove 
+HMS Mullion 
+HMS Munlochy 
+HMS Munster 
+HMS Muros 
+HMS Murray
+HMS Musette 
+HMS Musk 
+HMS Muskerry 
+HMS Musket 
+HMS Musketeer 
+HMS Mosquidobit (1813)
+HMS Musquito
+HMS Mustico 
+HMS Mutine
+HMS Myngs
+HMS Myosotis 
+HMS Myrmidon
+HMS Myrtle 
+HMS Mystic
+HMS N1
+HMS Naas 
+HMS Nabob
+HMS Nadder
+HMS Nadur 
+HMS Naiad
+HMS Nailsea 
+HMS Nairana
+HMS Namur
+HMS Nancy
+HMS Nankin 
+HMS Nantwich 
+HMS Napier
+HMS Narbada 
+HMS Narbrough
+HMS Narcissus
+HMS Narvik 
+HMS Narwhal
+HMS Naseby 
+HMS Nassau
+HMS Nasturtium 
+HMS Natal
+HMS Nathaniell 
+HMS Nautilus
+HMS Navarino 
+HMS Navy Board 
+HMS Navy Transport 
+HMS Navy 
+HMS Neckar 
+HMS Ned Elvin 
+HMS Negresse (1799)
+HMS Niger (1759)
+HMS Nelson
+HMS Nemesis
+HMS Nene
+HMS Nepal 
+HMS Nepaulin 
+HMS Nepean 
+HMS Nepeta 
+HMS Neptune
+HMS Nerbudda 
+HMS Nereide
+HMS Nereus 
+HMS Nerissa
+HMS Nesbitt 
+HMS Ness
+HMS Nessus
+HMS Nestor
+HMS Netley
+HMS Nettle
+HMS Nettlham 
+HMS New Adventure 
+HMS New Zealand
+HMS Newark 
+HMS Newash 
+HMS Newbark 
+HMS Newbury 
+HMS Newcastle
+HMS Newfoundland
+HMS Newhaven 
+HMS Newmarket
+HMS Newport
+HMS Newquay 
+HMS Newton 
+HMS Neza 
+HMS Niagara 
+HMS Nicator 
+HMS Nicholas Reede 
+HMS Nicholas 
+HMS Nicodemus 
+HMS Niemen
+HMS Nieuport 
+HMS Nigella 
+HMS Niger
+HMS Nigeria
+HMS Nighthawk
+HMS Nightingale 
+HMS Nijaden 
+HMS Nilam 
+HMS Nile
+HMS Nimble
+HMS Nimrod
+HMS Niobe
+HMS Nipigon 
+HMS Nisus
+HMS Nith 
+HMS Nitrocris 
+HMS Nizam 
+HMS Noble 
+HMS Nomad
+HMS Nonpareil
+HMS Nonsuch
+HMS Nootka 
+HMS Noranda 
+HMS Norfolk
+HMS Norge 
+HMS Norham Castle 
+HMS Norman 
+HMS Norseman 
+HMS Norsyd 
+HMS North Bay 
+HMS North Star
+HMS North 
+HMS Northampton
+HMS Northella 
+HMS Northern Rover 
+HMS Northesk 
+HMS Northolt 
+HMS Northrepps 
+HMS Northumbria
+HMS Northumberland
+HMS Northway 
+HMS Norwich Castle 
+HMS Norwich
+HMS Nottingham Prize 
+HMS Nottingham
+HMS Nova Scotia (1812)
+HMS Nox 
+HMS Nubian
+HMS Nuestra Senora del Rosario 
+HMS Nugent 
+HMS Nunney Castle 
+HMS Nurton 
+HMS Nusa 
+HMS Nyaden
+HMS Nyasaland
+HMS Nymph
+HMS Nymphe
+HMS Nymphen 
+HMS O1 
+HMS Oak
+HMS Oakham Castle 
+HMS Oakington 
+HMS Oakley
+HMS Oakville 
+HMS Obdurate
+HMS Obedient
+HMS Oberon
+HMS Obervateur 
+HMS Observer
+HMS Ocean
+HMS Oceanic
+HMS Oceanway
+HMS Ocelot
+HMS Ockham
+HMS Octavia
+HMS Odiham
+HMS Odin
+HMS Odzani
+HMS Offa
+HMS Ogre
+HMS Oiseau
+HMS Ojibwa 
+HMS Okanagan 
+HMS Okehampton 
+HMS Old Francis 
+HMS Old James
+HMS Old Lawrence 
+HMS Old President 
+HMS Old Roebuck 
+HMS Old Success 
+HMS Old Truelove 
+HMS Old Warwick 
+HMS Olive Branch
+HMS Olympia
+HMS Olympus
+HMS Omdurman 
+HMS Onondaga 
+HMS Onslaught
+HMS Onslow
+HMS Ontario
+HMS Onyx
+HMS Opal
+HMS Ophelia
+HMS Opossum
+HMS Opportune
+HMS Oracle
+HMS Orange
+HMS Orange Tree
+HMS Orangeville 
+HMS Orby
+HMS Orcadia 
+HMS Orchis 
+HMS Oreste 
+HMS Orestes
+HMS Orford Ness 
+HMS Orford Prize 
+HMS Orford
+HMS Oriana 
+HMS Oribi
+HMS Oriflamme 
+HMS Orilla 
+HMS Oriole 
+HMS Orion
+HMS Orissa 
+HMS Orkan 
+HMS Orkney 
+HMS Orlando
+HMS Ormonde
+HMS Ornen 
+HMS Orontes
+HMS Oroonoko
+HMS Orpheus
+HMS Orquijo 
+HMS Ortenzia 
+HMS Orwell
+HMS Oryx 
+HMS Osborne 
+HMS Oshawa 
+HMS Osiris
+HMS Osprey
+HMS Ossington 
+HMS Ossory
+HMS Ostend 
+HMS Ostrich
+HMS Oswald 
+HMS Oswego 
+HMS Oswestry Castle 
+HMS Otranto
+HMS Otter
+HMS Otus
+HMS Oudenarde 
+HMS Oulston 
+HMS Oundle 
+HMS Ouragan 
+HMS Ouse 
+HMS Overton 
+HMS Overyssel 
+HMS Owen Glendower
+HMS Owen Sound 
+HMS Owen
+HMS Owl
+HMS Owners Adventure 
+HMS Owners Goodwill 
+HMS Owners Love 
+HMS Oxford Castle
+HMS Oxford
+HMS Oxlip 
+HMS P11 
+HMS P12 
+HMS P13 
+HMS P14 
+HMS P15 
+HMS P16 
+HMS P17 
+HMS P18 
+HMS P19 
+HMS P20 
+HMS P21 
+HMS P22 
+HMS P23 
+HMS P24 
+HMS P25 
+HMS P26 
+HMS P27 
+HMS P28 
+HMS P29 
+HMS P30 
+HMS P31
+HMS P32
+HMS P32
+HMS P33
+HMS P33
+HMS P34 
+HMS P34 
+HMS P35 
+HMS P36
+HMS P37 
+HMS P38
+HMS P38
+HMS P39
+HMS P39
+HMS P40 
+HMS P41
+HMS P45 
+HMS P46 
+HMS P47
+HMS P48
+HMS P48
+HMS P49 
+HMS P50 
+HMS P52
+HMS P53 
+HMS P54 
+HMS P57 
+HMS P58 
+HMS P59
+HMS P64 
+HMS P222
+HMS P311
+HMS P411 
+HMS P412 
+HMS P413 
+HMS P511
+HMS P512
+HMS P514
+HMS P551
+HMS P552
+HMS P553
+HMS P554
+HMS P555
+HMS P556
+HMS P611
+HMS P612 
+HMS P614 
+HMS P615 
+HMS P711
+HMS P712 
+HMS P714 
+HMS Pacific 
+HMS Packington
+HMS Pactolus
+HMS Padstow Bay 
+HMS Padstow 
+HMS Pagham
+HMS Pakenham
+HMS Paladin
+HMS Palinurus 
+HMS Pallas
+HMS Palliser
+HMS Palm Tree 
+HMS Palma 
+HMS Palomares
+HMS Paluma
+HMS Pandora
+HMS Pandour
+HMS Pangbourne 
+HMS Panglima 
+HMS Pansy 
+HMS Pantaloon
+HMS Panther
+HMS Papillon 
+HMS Papua
+HMS Paradox 
+HMS Paragon
+HMS Paramour
+HMS Parapet 
+HMS Paris 
+HMS Parker 
+HMS Parkes 
+HMS Parret 
+HMS Parrot 
+HMS Parrsboro 
+HMS Parry Sound 
+HMS Parthian
+HMS Partridge
+HMS Pasley
+HMS Pat Barton 
+HMS Pathan 
+HMS Pathfinder
+HMS Patrician
+HMS Patrick 
+HMS Patriot
+HMS Patrol
+HMS Patroller
+HMS Patton 
+HMS Paul 
+HMS Paulina 
+HMS Pauncey 
+HMS Paz 
+HMS PC42 
+HMS PC43 
+HMS PC44 
+HMS PC51 
+HMS PC55 
+HMS PC56 
+HMS PC60 
+HMS PC61 
+HMS PC62 
+HMS PC63 
+HMS PC65 
+HMS PC66 
+HMS PC67 
+HMS PC68 
+HMS PC69 
+HMS PC70 
+HMS PC71 
+HMS PC72 
+HMS PC73 
+HMS PC74 
+HMS Peace 
+HMS Peacock
+HMS Peard 
+HMS Pearl Prize 
+HMS Pearl
+HMS Pearlen 
+HMS Pedro 
+HMS Pegase
+HMS Pegasus
+HMS Peggy 
+HMS Pegwell Bay 
+HMS Pelargonium 
+HMS Pelican Prize
+HMS Pelican
+HMS Pellew
+HMS Pelorus
+HMS Pelter 
+HMS Pembroke
+HMS Pembroke II
+HMS Pembroke Castle 
+HMS Pembroke Prize 
+HMS Penang 
+HMS Pendennis Castle 
+HMS Pendennis 
+HMS Penelope
+HMS Penetang 
+HMS Penguin
+HMS Penlee Point 
+HMS Penn
+HMS Pennywort 
+HMS Penstemon 
+HMS Penston 
+HMS Penylan
+HMS Penzance
+HMS Peony
+HMS Pera 
+HMS Perdrix 
+HMS Peregrine Galley 
+HMS Peregrine Prize 
+HMS Peregrine 
+HMS Perim
+HMS Periwinkle 
+HMS Perlen 
+HMS Perseus
+HMS Perseverance
+HMS Persian 
+HMS Persimmon 
+HMS Persistent 
+HMS Pert 
+HMS Perth
+HMS Peruvian 
+HMS Pesaquid 
+HMS Peshawar 
+HMS Pet 
+HMS Petard
+HMS Peter Pomegranate 
+HMS Peter 
+HMS Peterborough 
+HMS Peterel
+HMS Peterell
+HMS Peterhead
+HMS Peterman 
+HMS Petersfield 
+HMS Petersham
+HMS Petrel 
+HMS Petrolla 
+HMS Petulant 
+HMS Petunia 
+HMS Pevensey Castle
+HMS Peyton 
+HMS Phaeton
+HMS Pheasant
+HMS Philip & Mary
+HMS Philip 
+HMS Phillimore 
+HMS Philoctetes 
+HMS Philomel
+HMS Phipps (1808)
+HMS Phlegethon 
+HMS Phlox
+HMS Phoebe
+HMS Phoenix
+HMS Phosphorus 
+HMS Pickle
+HMS Picotee 
+HMS Picton 
+HMS Pictou
+HMS Piemontaise
+HMS Piercer 
+HMS Pigeon
+HMS Pigmy 
+HMS Pike
+HMS Pilchard
+HMS Pilford 
+HMS Pilot
+HMS Pimpernel 
+HMS Pincher
+HMS Pineham
+HMS Pink 
+HMS Pinner 
+HMS Pintail 
+HMS Pioneer
+HMS Piorun 
+HMS Pique
+HMS Pirie 
+HMS Pirouette 
+HMS Pitcairn
+HMS Pitt 
+HMS Pittington 
+HMS Placentia
+HMS Planet 
+HMS Plantagenet (1801)
+HMS Plassy 
+HMS Platy Prize 
+HMS Platypus 
+HMS Plessisville 
+HMS Plover
+HMS Plucky
+HMS Plumper
+HMS Plumpton 
+HMS Pluto
+HMS Plym
+HMS Plymouth Prize 
+HMS Plymouth Transport 
+HMS Plymouth
+HMS Pocahontas 
+HMS Pochard 
+HMS Podargus (1808)
+HMS Poictiers
+HMS Pointe Claire 
+HMS Polacca 
+HMS Polar Circle
+HMS Polaris 
+HMS Polecat (1782)
+HMS Pollington 
+HMS Pollux 
+HMS Polperro 
+HMS Polruan 
+HMS Polsham
+HMS Polyanthus
+HMS Polyphemus
+HMS Pomona
+HMS Pomone
+HMS Pompee
+HMS Pondicherry 
+HMS Pontypool 
+HMS Poole 
+HMS Popham
+HMS Popinjay 
+HMS Poppy
+HMS Porcupine
+HMS Porgey (1807)
+HMS Porlock Bay
+HMS Porlock 
+HMS Porpoise
+HMS Port Antonio 
+HMS Port Arthur 
+HMS Port Colborne 
+HMS Port d'Espagne (1806)
+HMS Port Hope 
+HMS Port Mahon
+HMS Port Morant 
+HMS Port Royal
+HMS Port Wespagne 
+HMS Portage 
+HMS Portchester Castle
+HMS Portcullis 
+HMS Porthleven 
+HMS Portia
+HMS Portisham
+HMS Portland Bill 
+HMS Portland Prize
+HMS Portland
+HMS Porto 
+HMS Portreath 
+HMS Portsmouth Prize 
+HMS Portsmouth Shallop 
+HMS Portsmouth 
+HMS Portway 
+HMS Poseidon
+HMS Post 
+HMS Postboy 
+HMS Postillion
+HMS Potentilla 
+HMS Poulette
+HMS Poulmic 
+HMS Pouncer 
+HMS Poundmaker 
+HMS Powderham
+HMS Powerful
+HMS Pozarica 
+HMS Premier 
+HMS Prescott 
+HMS President
+HMS Prestatyn 
+HMS Preston
+HMS Prestonian 
+HMS Prevention 
+HMS Prevost
+HMS Primrose 
+HMS Primula 
+HMS Prince
+HMS Prince Albert
+HMS Prince Arthur 
+HMS Prince Augustus Frederick 
+HMS Prince Charles
+HMS Prince Consort
+HMS Prince de Neuchatel 
+HMS Prince Edward
+HMS Prince Eugene
+HMS Prince Frederick
+HMS Prince George
+HMS Prince Leopold 
+HMS Prince of Orange 
+HMS Prince of Wales
+HMS Prince Regent
+HMS Prince Royal
+HMS Prince Rupert
+HMS Prince William
+HMS Princess
+HMS Princess Alice 
+HMS Princess Amelia
+HMS Princess Anne
+HMS Princess Augusta
+HMS Princess Carolina
+HMS Princess Caroline
+HMS Princess Charlotte
+HMS Princess Ena 
+HMS Princess Irene
+HMS Princess Iris 
+HMS Princess Louisa
+HMS Princess Margaret 
+HMS Princess Maria 
+HMS Princess Mary
+HMS Princess of Orange 
+HMS Princess Royal
+HMS Princess Sophia Frederica 
+HMS Princessa
+HMS Princesse 
+HMS Prins Albert 
+HMS Prinses Astrid 
+HMS Prinses Beatrix 
+HMS Privet
+HMS Prize
+HMS Procris 
+HMS Prodigal 
+HMS Progresso 
+HMS Prohibition 
+HMS Project 
+HMS Prometheus
+HMS Prompt Prize 
+HMS Prompt 
+HMS Prompte 
+HMS Proselyte
+HMS Proserpine
+HMS Prosperity 
+HMS Prospero 
+HMS Prosperous 
+HMS Protea 
+HMS Protector
+HMS Proteus
+HMS Prothee 
+HMS Providence Prize 
+HMS Providence
+HMS Provo 
+HMS Prowse 
+HMS Prudent
+HMS Prudente 
+HMS Psyche
+HMS Puck 
+HMS Puckeridge 
+HMS Puffin
+HMS Pukaki 
+HMS Pulham
+HMS Pultusk 
+HMS Puma 
+HMS Pumba 
+HMS Puncher
+HMS Puncheston 
+HMS Punjab 
+HMS Punjabi
+HMS Punjaub 
+HMS Puntoone 
+HMS Pursuer
+HMS Puttenham
+HMS Pyl 
+HMS Pylades
+HMS Pyramus
+HMS Pyrrhus 
+HMS Pytchley 
+HMS Python
+HMS Quadra 
+HMS Quadrant
+HMS Quadrille 
+HMS Quail
+HMS Quainton 
+HMS Quaker 
+HMS Qualicum 
+HMS Quality
+HMS Quantock 
+HMS Qu'appele 
+HMS Quebec
+HMS Queen
+HMS Queen Charlotte
+HMS Queen Elizabeth
+HMS Queen Emma
+HMS Queen Mab 
+HMS Queen Mary
+HMS Queen of Kent 
+HMS Queenborough
+HMS Quentin
+HMS Quesnel 
+HMS Quest
+HMS Quiberon
+HMS Quickmatch
+HMS Quilliam
+HMS Quinte 
+HMS Quittance 
+HMS Quorn
+HMS R1
+HMS R2
+HMS R3
+HMS R4
+HMS R5
+HMS R6
+HMS R7
+HMS R8
+HMS R9
+HMS R10
+HMS R11
+HMS R12
+HMS Raby Castle 
+HMS Racehorse
+HMS Racer
+HMS Rachel 
+HMS Rackham
+HMS Racoon
+HMS Radstock 
+HMS Raglan
+HMS Raider
+HMS Rainbow
+HMS Raleigh
+HMS Rambler
+HMS Ramillies
+HMS Rampisham
+HMS Ramsey
+HMS Ranger
+HMS Rapid
+HMS Raposa (1806)
+HMS Rattle 
+HMS Rattler
+HMS Rattlesnake
+HMS Raven
+HMS Rawalpindi
+HMS Rayleigh Castle
+HMS Reading
+HMS Ready 
+HMS Rebecca 
+HMS Recovery 
+HMS Recruit
+HMS Redbreast 
+HMS Redcar 
+HMS Redgauntlet 
+HMS Redmill
+HMS Redoubt
+HMS Redpole
+HMS Regent
+HMS Regulus
+HMS Reindeer
+HMS Relentless 
+HMS Reliance
+HMS Renard
+HMS Renascent 
+HMS Renommee 
+HMS Renonculus 
+HMS Renown
+HMS Repulse
+HMS Resolute
+HMS Resolution
+HMS Resource
+HMS Restoration
+HMS Restless 
+HMS Revenge
+HMS Reward 
+HMS Rhododendron 
+HMS Rhyl
+HMS Ribble
+HMS Richmond
+HMS Rifleman
+HMS Rigorous 
+HMS Rinaldo
+HMS Riviera
+HMS Rob Roy 
+HMS Roberts
+HMS Robin
+HMS Robust
+HMS Roc 
+HMS Rochfort (1814)
+HMS Rocket
+HMS Rockrose 
+HMS Rockwood 
+HMS Rodney
+HMS Roebuck
+HMS Roebuck II 
+HMS Roedean 
+HMS Rolls Royce 
+HMS Romney
+HMS Romola 
+HMS Rorqual
+HMS Rosalind 
+HMS Rosario
+HMS Rosaura
+HMS Rose
+HMS Rosebay 
+HMS Rosebush 
+HMS Rosemary 
+HMS Ross
+HMS Rother 
+HMS Rowena 
+HMS Roxburgh
+HMS Royal Alfred 
+HMS Royal Arthur
+HMS Royal Charles
+HMS Royal Charlotte
+HMS Royal Eagle 
+HMS Royal George
+HMS Royal James
+HMS Royal Oak
+HMS Royal Scotsman
+HMS Royal Sovereign
+HMS Royal Ulsterman
+HMS Royal William
+HMS Royalist
+HMS Ruby
+HMS Rugby
+HMS Ruler 
+HMS Rupert
+HMS Rushen Castle
+HMS Russell
+HMS Rutherford
+HMS Rye
+HMS S1
+HMS S2 
+HMS S3 
+HMS Sabine
+HMS Sable
+HMS Sabre
+HMS Sabrina
+HMS Sacrett 
+HMS Safari (P211)
+HMS Safeguard 
+HMS Safety 
+HMS Saga (P257)
+HMS Sahib (P212)
+HMS Saladin 
+HMS Salamander
+HMS Saldanha
+HMS Salisbury
+HMS Salmon
+HMS Salvia
+HMS Samarang
+HMS Samphire
+HMS Sandfly
+HMS Sandown
+HMS Sanguine (P266)
+HMS Sapphire
+HMS Sappho
+HMS Saracen
+HMS Sardonyx 
+HMS Sarpedon 
+HMS Sartine (1778)
+HMS Satellite
+HMS Saturn 
+HMS Satyr
+HMS Saumarez
+HMS Savage
+HMS Saxifrage
+HMS Scarab 
+HMS Scarborough
+HMS Sceptre
+HMS Scimitar
+HMS Scorcher (P258)
+HMS Scorpion
+HMS Scotsman
+HMS Scotstoun 
+HMS Scott
+HMS Scourge
+HMS Scout
+HMS Scylla
+HMS Scythe 
+HMS Scythian (P237)
+HMS Sea Devil (P244)
+HMS Sea Nymph
+HMS Sea Rover (P218)
+HMS Sea Scout (P253)
+HMS Seabear
+HMS Seadog (P216)
+HMS Seafire
+HMS Seaforth (1805)
+HMS Seagull
+HMS Seahawk
+HMS Seahorse
+HMS Seal
+HMS Sealion
+HMS Seanymph 
+HMS Searcher
+HMS Seawolf
+HMS Selene (P254)
+HMS Senator 
+HMS Seneschal (P255)
+HMS Sennen 
+HMS Sentinel
+HMS Sepoy
+HMS Seraph
+HMS Serapis
+HMS Serene 
+HMS Seringapatam 
+HMS Serpent
+HMS Sesame 
+HMS Sesostris 
+HMS Setter 
+HMS Seven Sisters 
+HMS Seven Stars 
+HMS Sevenoaks 
+HMS Severn
+HMS Seychelles
+HMS Seymour
+HMS Shah
+HMS Shakespeare
+HMS Shalford
+HMS Shalimar (P242)
+HMS Shamrock 
+HMS Shannon
+HMS Shark
+HMS Sharke
+HMS Sharpshooter 
+HMS Sheerness
+HMS Sheffield
+HMS Sheldrake
+HMS Shelanagig (1780)
+HMS Shepperton
+HMS Shikari 
+HMS Shoreham
+HMS Shropshire
+HMS Sibyl
+HMS Sickle (P224)
+HMS Sidon
+HMS Sikh
+HMS Simbang
+HMS Simoon 
+HMS Sirdar 
+HMS Siren
+HMS Sirius
+HMS Siskin
+HMS Skate
+HMS Skilful 
+HMS Skipjack 
+HMS Skirmisher
+HMS Skylark 
+HMS Sladen 
+HMS Slaney 
+HMS Sleuth
+HMS Sligo 
+HMS Slinger
+HMS Slothany 
+HMS Sluys
+HMS Smilax 
+HMS Smiter
+HMS Snaefell 
+HMS Snake
+HMS Snap
+HMS Snapdragon
+HMS Snapper
+HMS Snowberry 
+HMS Snowdrop
+HMS Snowflake 
+HMS Solebay
+HMS Solent
+HMS Somali
+HMS Somerset
+HMS Somme 
+HMS Sophie 
+HMS Sorceress 
+HMS Southampton
+HMS Southwold 
+HMS Sovereign
+HMS Sovereign of the Seas
+HMS Spanker
+HMS Sparham
+HMS Spark (P236)
+HMS Sparkler
+HMS Sparrow
+HMS Sparrowhawk
+HMS Spartan
+HMS Spartiate
+HMS Speaker
+HMS Spear 
+HMS Spearfish (69S)
+HMS Spearhead (P263)
+HMS Speedwell
+HMS Speedy
+HMS Spey
+HMS Sphinx
+HMS Spider
+HMS Spikenard 
+HMS Spindrift 
+HMS Spiraea
+HMS Spirit (P245)
+HMS Spiteful
+HMS Spitfire
+HMS Splendid
+HMS Sportive 
+HMS Sportsman (P229)
+HMS Sprightly
+HMS Springbank 
+HMS Springbok 
+HMS Springer (P264)
+HMS Spur
+HMS Squirrel
+HMS St Albans
+HMS St Apollo 
+HMS St David
+HMS St George
+HMS St. Helier 
+HMS St Jean d'Acre
+HMS St Vincent
+HMS St. Zeno (FY280) 
+HMS Stalker
+HMS Stalwart 
+HMS Standard
+HMS Starfish
+HMS Starling
+HMS Starwort 
+HMS Statesman (P246)
+HMS Statice 
+HMS Staunch
+HMS Stayner
+HMS Steadfast 
+HMS Sterlet (2S)
+HMS Sterling 
+HMS Stevenstone 
+HMS Stirling Castle
+HMS Stoic (P231)
+HMS Stonecrop
+HMS Stonehenge
+HMS Stork
+HMS Storm (P233)
+HMS Stormcloud 
+HMS Stour
+HMS Stratagem (P234)
+HMS Strathella 
+HMS Strenuous
+HMS Striker
+HMS Strongbow
+HMS Stronghold 
+HMS Stuart 
+HMS Stubborn (P238)
+HMS Sturdy
+HMS Sturgeon
+HMS Stygian (P249)
+HMS Subtle (P251)
+HMS Success
+HMS Suffolk
+HMS Sultan
+HMS Sultana
+HMS Sunderland
+HMS Sundew 
+HMS Sunfish
+HMS Sunflower 
+HMS Superb
+HMS Supply
+HMS Supreme (P252)
+HMS Surf
+HMS Surinam
+HMS Surly 
+HMS Surprise
+HMS Sussex
+HMS Sutherland
+HMS Sutlej
+HMS Swaggerer (1809)
+HMS Swale
+HMS Swallow
+HMS Sweetbriar 
+HMS Swift
+HMS Swiftsure
+HMS Swindon
+HMS Swordfish
+HMS Swordsman
+HMS Sycamore 
+HMS Sylph 
+HMS Sylvia
+HMS Syren
+HMS Syrtis (P241)
+HMS Tabard
+HMS Taciturn
+HMS Tactician 
+HMS Taff 
+HMS Tain 
+HMS Taku
+HMS Talbot
+HMS Talent
+HMS Talisman
+HMS Tally-Ho
+HMS Talybont (L18) 
+HMS Tamar
+HMS Tamarisk 
+HMS Tanatside 
+HMS Tancred
+HMS Tang (1807)
+HMS Tanganyika 
+HMS Tantalus
+HMS Tantivy
+HMS Tapageur (1779)
+HMS Tapir
+HMS Tara
+HMS Tarlton 
+HMS Tarn
+HMS Tarpon
+HMS Tartar
+HMS Tasman 
+HMS Tasmania 
+HMS Tattoo
+HMS Taurus
+HMS Tavy 
+HMS Tay
+HMS Teazer
+HMS Tedworth 
+HMS Tees 
+HMS Telemachus
+HMS Temeraire
+HMS Tempest
+HMS Templar
+HMS Tenacious
+HMS Tenby
+HMS Tenedos
+HMS Teredo
+HMS Termagent
+HMS Terpsichore
+HMS Terrapin
+HMS Terrible
+HMS Terror
+HMS Test
+HMS Tetcott
+HMS Tetrarch
+HMS Teviot Bank
+HMS Teviot 
+HMS Thakeham
+HMS Thames
+HMS Thane
+HMS Thanet
+HMS Thatcham
+HMS Theban 
+HMS Thermopylae
+HMS Theseus
+HMS Thetis
+HMS Thisbe
+HMS Thistle
+HMS Thor
+HMS Thorn
+HMS Thornborough
+HMS Thornham
+HMS Thorough
+HMS Thracian 
+HMS Thrasher
+HMS Thruster 
+HMS Thule
+HMS Thunderbolt
+HMS Thunderer
+HMS Thyme 
+HMS Tiara
+HMS Tiger
+HMS Tigress
+HMS Tigris
+HMS Tilbury
+HMS Tintagel Castle 
+HMS Tintagel 
+HMS Tipperary 
+HMS Tiptoe
+HMS Tireless
+HMS Titania 
+HMS Tithonus 
+HMS Tiverton
+HMS Tobago
+HMS Tobruk 
+HMS Token
+HMS Tomahawk 
+HMS Tonbridge Castle 
+HMS Tonbridge
+HMS Tongham
+HMS Tonnant
+HMS Toowoomba 
+HMS Topaze
+HMS Torbay
+HMS Torch 
+HMS Toreador
+HMS Tormentor 
+HMS Tornado 
+HMS Torquay
+HMS Torrens 
+HMS Torrent 
+HMS Torrid 
+HMS Torridge 
+HMS Torrington
+HMS Tortoise 
+HMS Tortola
+HMS Totem
+HMS Totland 
+HMS Totnes 
+HMS Tourmaline 
+HMS Tourterelle 
+HMS Toutou
+HMS Tower
+HMS Towey 
+HMS Towzer (1798)
+HMS Towy 
+HMS Tracker
+HMS Tradewind
+HMS Trafalgar
+HMS Trailer 
+HMS Tralee
+HMS Transfer 
+HMS Transit 
+HMS Transporter 
+HMS Transylvania
+HMS Traveller
+HMS Trenchant
+HMS Trent
+HMS Trepassy
+HMS Tresham
+HMS Trespasser
+HMS Triad (N53)
+HMS Tribune
+HMS Tricord 
+HMS Trident
+HMS Trillium 
+HMS Trimmer (1782)
+HMS Trincomalee
+HMS Trinidad
+HMS Tristram 
+HMS Triton
+HMS Triumph
+HMS Trojan 
+HMS Tronda 
+HMS Trooper
+HMS Troubridge 
+HMS Truant
+HMS Truculent
+HMS Truelove 
+HMS Trump
+HMS Trumpeter
+HMS Truncheon
+HMS Truro
+HMS Trusty
+HMS Tryphon 
+HMS Tudor
+HMS Tulip
+HMS Tumult
+HMS Tuna
+HMS Turbulent
+HMS Turpin
+HMS Turquoise 
+HMS Tuscan
+HMS Tutankhamen
+HMS Tweed
+HMS Twickenham
+HMS Tyler
+HMS Tyne
+HMS Tynedale 
+HMS Tynwald
+HMS Tyrant 
+HMS Tyrian
+HMS U1407 
+HMS Ufton 
+HMS Uganda
+HMS Ulex 
+HMS Ullswater 
+HMS Ulster Monarch 
+HMS Ulster Queen 
+HMS Ulster
+HMS Ultimatum
+HMS Ultor
+HMS Ulysses
+HMS Umbra
+HMS Umpire
+HMS Una 
+HMS Unbeaten
+HMS Unbending
+HMS Unbridled 
+HMS Unbroken
+HMS Undaunted
+HMS Undine
+HMS Ungava 
+HMS Unicorn
+HMS Union
+HMS Unique
+HMS Unison
+HMS Unite
+HMS United
+HMS Unity
+HMS Unity II 
+HMS Unity III 
+HMS Universal
+HMS Unrivalled
+HMS Unruffled
+HMS Unruly
+HMS Unseen
+HMS Unshaken
+HMS Unsparing
+HMS Unswerving
+HMS Untamed
+HMS Untiring
+HMS Upas 
+HMS Upholder
+HMS Uppingham 
+HMS Upright
+HMS Uproar
+HMS Upshot
+HMS Upstart
+HMS Upton 
+HMS Upward 
+HMS Urania
+HMS Uranie
+HMS Urchin
+HMS Ure 
+HMS Uredd 
+HMS Urge
+HMS Urgent
+HMS Ursa
+HMS Ursula
+HMS Urtica 
+HMS Usk (disambiguation)
+HMS Usurper
+HMS Uther
+HMS Utile 
+HMS Utmost
+HMS Utopia 
+HMS Utrecht 
+HMS Valentine
+HMS Valeur
+HMS Valhalla
+HMS Valiant
+HMS Valkyrie
+HMS Valorous
+HMS Vampire
+HMS Vancouver
+HMS Vanessa
+HMS Vanguard
+HMS Vanity
+HMS Vanoc
+HMS Vanquisher
+HMS Vansittart
+HMS Vascama 
+HMS Vectis (D51)
+HMS Vega
+HMS Vehement
+HMS Velox
+HMS Vendetta
+HMS Venerable
+HMS Venetia
+HMS Vengeance
+HMS Venomous
+HMS Venturer
+HMS Venturous
+HMS Venus
+HMS Verbena 
+HMS Verdun
+HMS Verity
+HMS Vernon
+HMS Veronica
+HMS Versatile
+HMS Verulam
+HMS Vervain
+HMS Vesper
+HMS Vesta (1806)
+HMS Vestal
+HMS Vetch
+HMS Veteran
+HMS Viceroy
+HMS Victor
+HMS Victoria
+HMS Victorious
+HMS Vidette
+HMS Vienna 
+HMS Vigilant
+HMS Vigo
+HMS Viking
+HMS Vimiera
+HMS Vimy
+HMS Vincejo (1799)
+HMS Vindex
+HMS Vindictive
+HMS Violent
+HMS Violet
+HMS Viper
+HMS Virago
+HMS Virginian 
+HMS Viscount
+HMS Visenda 
+HMS Vittoria
+HMS Vivacious
+HMS Vivid
+HMS Vivien
+HMS Vixen
+HMS Voltaire 
+HMS Volunteer
+HMS Vortigern
+HMS Voyager
+HMS Vulcan
+HMS Vulture
+HMS Wager
+HMS Wahine 
+HMS Wakeful
+HMS Walker
+HMS Wallflower 
+HMS Walney
+HMS Walpole
+HMS Walrus
+HMS Wanderer
+HMS Warren Hastings 
+HMS Warrior
+HMS Warspite
+HMS Warwick
+HMS Wasp
+HMS Watchman
+HMS Waterhen
+HMS Waterwitch
+HMS Wave 
+HMS Waveney
+HMS Wear 
+HMS Weazel
+HMS Weazle
+HMS Welland
+HMS Wellington
+HMS Welshman
+HMS Wem
+HMS Wenslydale 
+HMS Wessex
+HMS Westcott
+HMS Western Isles
+HMS Westminster
+HMS Wheatland
+HMS Whelp
+HMS Whimbrel 
+HMS Whippingham
+HMS Whirlwind
+HMS Whitby
+HMS Whitehall
+HMS Whitesand Bay
+HMS Whiting
+HMS Whitley
+HMS Whitshed
+HMS Wild Goose
+HMS Wild Swan
+HMS Wilhelmina (1798)
+HMS Willowherb 
+HMS Wilton
+HMS Winchelsea
+HMS Winchester
+HMS Windflower 
+HMS Windsor
+HMS Wintringham
+HMS Wishart
+HMS Wistaria 
+HMS Wiston 
+HMS Witch
+HMS Witherington 
+HMS Wivenhoe 
+HMS Wivern
+HMS Wizard
+HMS Woldingham
+HMS Wolf
+HMS Wolfhound 
+HMS Wolsey
+HMS Wolverine
+HMS Woodbridge Haven 
+HMS Woodcock 
+HMS Woodlark
+HMS Woodpecker
+HMS Woodruff 
+HMS Woolston
+HMS Woolwich
+HMS Worcester
+HMS Worthing
+HMS Wrangler
+HMS Wren
+HMS Wrenn
+HMS Wrentham
+HMS Wrestler
+HMS Wryneck
+HMS Wulastock 
+HMS Wyandra
+HMS Wye 
+HMS Wyvern 
+HMS X1
+HMS X2
+HMS X51 
+HMS X52 
+HMS X53 
+HMS X54 
+HMS Xenophon
+HMS Yarmouth
+HMS Yarmouth II 
+HMS Yarnton 
+HMS Yarra 
+HMS Yaxham
+HMS Yealmpton 
+HMS Yellowknife 
+HMS Yeoman
+HMS Yeovil 
+HMS York Castle
+HMS York
+HMS Young Hebe 
+HMS Young Hoblin 
+HMS Young King 
+HMS Young Lady 
+HMS Young Lion 
+HMS Young Prince 
+HMS Young Shish 
+HMS Young Spragge 
+HMS Ypres 
+HMS Yukon 
+HMS Z4 
+HMS Z5 
+HMS Z6 
+HMS Z7 
+HMS Z8 
+HMS Z10 
+HMS Z30 
+HMS Z38 
+HMS Zambesi 
+HMS Zanzibar
+HMS Zealandia
+HMS Zealand 
+HMS Zealous
+HMS Zebra
+HMS Zeebrugge 
+HMS Zenith
+HMS Zenobia
+HMS Zephyr
+HMS Zest 
+HMS Zetland 
+HMS Zingarella 
+HMS Zinnia
+HMS Zodiac
+HMS Zubian
+HMS Zulu
+HMS Zulu (1909)
+HMS Nubian (1909)
