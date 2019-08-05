@@ -1,6 +1,6 @@
 # mikemorenoaudio.github.io
 
-The source for joereynoldsaudio.com
+The source for mikemorenoaudio.github.io
 
 To start it locally, do the following:
 
