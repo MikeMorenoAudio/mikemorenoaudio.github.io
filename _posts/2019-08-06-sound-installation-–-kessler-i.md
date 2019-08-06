@@ -27,6 +27,8 @@ A more advanced option would be to use other objects from the timbreID library l
 
 Finally, these recordings were played through an FM transmitter in a non-repeating order using Drymonitis’ `[vanillaUrn]` abstraction, and the museum visitors were given small radios to listen to this installation.
 
+![Radio](/assets/images/2019-08-06-radio.jpg)
+
 ## References
 
 * Alexandros Drymonitis, ["Miscellaneous Abstractions"](https://github.com/alexdrymonitis/miscellaneous_abstractions/)
