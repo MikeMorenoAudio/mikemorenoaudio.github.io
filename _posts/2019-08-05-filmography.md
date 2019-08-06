@@ -6,7 +6,7 @@ tags: portfolio
 
 ![Filmography](/assets/images/2019-08-05-filmography.jpg)
 
-In 2015 I did an internship at [BHD Studios](http://www.bhdestudios.com/) where I was involved in the dialogue editing, foley, sound editing and sound recording for several latin-american films. After this experience, I continued editing sound and composing music for independent short films.
+In 2015 I did an internship at [BHD Studios](http://www.bhdestudios.com/) where I was involved in the sound editing for several latin-american films. After this experience, I continued editing sound and composing music for independent short films.
 
 ## Feature Films
 * **Un caballo llamado Elefante (2016)** / [IMDb](https://www.imdb.com/title/tt3685570/) / [Trailer](https://youtu.be/w305ikba6-s) / *Sound Effects Editor & Foley Editor*
