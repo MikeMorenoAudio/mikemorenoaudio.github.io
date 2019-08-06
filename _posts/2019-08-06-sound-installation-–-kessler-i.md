@@ -6,12 +6,9 @@ tags: portfolio
 
 ![Kessler I](/assets/images/2019-08-06-kessler-i.jpg)
 
-* "Kessler I"
-* From the "Kessler Syndrome" series
+* "Kessler I" from the "Kessler Syndrome" series
 * By Ernesto Walker
-* Sound Installation
-* 850 x 400 x 200 cm
-* 2018
+* Sound Installation (850 x 400 x 200 cm)
 * Exhibited at Monterrey’s Museum of Contemporary Art
 
 Kessler Syndrome is a series of sculptures that reflects on the current state of telecommunications and their effects on how we exchange information.
@@ -24,7 +21,7 @@ There were plenty of obstacles at the museum given the room’s reverberation, h
 
 ## Reference
 
-* Alexandros Drymonitis, [Miscellaneous Abstractions](https://github.com/alexdrymonitis/miscellaneous_abstractions/)
-* Ernesto Walker,[Kessler I](http://www.ernestowalker.com/I_E/KesslerSyndrome.html)
-* William Brent, [timbreID](https://github.com/wbrent/timbreID)
-* Wikipedia, [Voice Activity Detection](https://en.wikipedia.org/wiki/Voice_activity_detection)
+* Alexandros Drymonitis, ["Miscellaneous Abstractions"](https://github.com/alexdrymonitis/miscellaneous_abstractions/)
+* Ernesto Walker,["Kessler I"](http://www.ernestowalker.com/I_E/KesslerSyndrome.html)
+* William Brent, ["timbreID"](https://github.com/wbrent/timbreID)
+* Wikipedia, ["Voice Activity Detection"](https://en.wikipedia.org/wiki/Voice_activity_detection)
