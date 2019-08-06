@@ -7,10 +7,10 @@ tags: portfolio
 ![Kessler I](/assets/images/2019-08-06-kessler-i.jpg)
 
 <dl>
-  <dd>"Kessler I" from the "Kessler Syndrome" series<br>
+  <dd><font size="6">"Kessler I" from the "Kessler Syndrome" series<br>
   By Ernesto Walker<br>
   Sculpture / Sound Installation (850 x 400 x 200 cm)<br>
-  Exhibited at Monterrey’s Museum of Contemporary Art</dd>
+  Exhibited at Monterrey’s Museum of Contemporary Art</font><br></dd>
 </dl>
 
 Kessler Syndrome is a series of sculptures that reflects on the current state of telecommunications and their effects on how we exchange information.
