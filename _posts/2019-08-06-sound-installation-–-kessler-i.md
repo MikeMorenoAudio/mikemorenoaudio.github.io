@@ -4,7 +4,7 @@ tags: portfolio
 ---
 # Kessler I (2018)
 
-![Kessler I](/assets/images/2019-08-06-kessler-i.png)
+![Kessler I](/assets/images/2019-08-06-kessler-i.jpg)
 
 "Kessler I"
 From the "Kessler Syndrome" series
