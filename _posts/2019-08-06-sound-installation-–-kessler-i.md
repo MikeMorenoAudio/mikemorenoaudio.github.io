@@ -8,6 +8,7 @@ tags: portfolio
 
 > "Kessler I" from the "Kessler Syndrome" series
 > By Ernesto Walker
+
 > Sculpture / Sound Installation (850 x 400 x 200 cm)
 > Exhibited at Monterrey’s Museum of Contemporary Art
 
