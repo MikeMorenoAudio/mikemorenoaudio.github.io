@@ -8,7 +8,7 @@ A fully synthesized drum machine programmed in Pure Data Vanilla and compatible 
 Custom made for [Moon Echo Audio](https://www.moonechoaudio.com).
 
 <iframe width="512" height="288"
-src="https://youtu.be/ZApWqkWXvds">
+src="https://www.youtube.com/embed/ZApWqkWXvds">
 </iframe>
 
 ## References
