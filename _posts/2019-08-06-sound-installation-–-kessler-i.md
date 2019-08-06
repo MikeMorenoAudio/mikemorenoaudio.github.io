@@ -8,7 +8,7 @@ tags: portfolio
 
 * "Kessler I" from the "Kessler Syndrome" series
 * By Ernesto Walker
-* Sound Installation (850 x 400 x 200 cm)
+* Sculpture / Sound Installation (850 x 400 x 200 cm)
 * Exhibited at Monterrey’s Museum of Contemporary Art
 
 Kessler Syndrome is a series of sculptures that reflects on the current state of telecommunications and their effects on how we exchange information.
