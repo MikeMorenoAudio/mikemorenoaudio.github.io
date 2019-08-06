@@ -11,7 +11,7 @@ In 2015 I did an internship at [BHD Studios](http://www.bhdestudios.com/) where 
 ## Feature Films
 * **Un caballo llamado Elefante (2016)** / [IMDb](https://www.imdb.com/title/tt3685570/) / [Trailer](https://youtu.be/w305ikba6-s) / *Sound Effects Editor & Foley Editor*
 * **Juego de Héroes (2016)** / [IMDb](https://www.imdb.com/title/tt3824388/) / [Trailer](https://youtu.be/tmoXa3xalNM) / *Dialogue Editor*
-* **Manual de principiantes para ser presidente (2016)** / [IMDb](https://www.imdb.com/title/tt4068026/) / [Trailer](https://youtu.be/FV-_Jpn7gh0) / Foley Editor
+* **Manual de principiantes para ser presidente (2016)** / [IMDb](https://www.imdb.com/title/tt4068026/) / [Trailer](https://youtu.be/FV-_Jpn7gh0) / *Foley Editor*
 * **Esa era Diana (2016)** / [IMDb](https://www.imdb.com/title/tt4104186/) / [Trailer](https://youtu.be/5D_9z6PYWYA) / *Dialogue Editor*
 * **Sofía (2016)** / [IMDb](https://www.imdb.com/title/tt5089566/) / [More Info](https://www.promofest.org/films/sofia) / *Sound Recordist*
 
