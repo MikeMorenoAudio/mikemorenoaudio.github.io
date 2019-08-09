@@ -4,7 +4,7 @@ tags: [plugins, portfolio]
 ---
 # EP-MK1
 
-**Euklid** is a real-time physical model of an Electric Piano built with Camomile and Pure Data.
+**EP-MK1** is a real-time physical model of an Electric Piano built with Camomile and Pure Data.
 
 <center><p><h2><a href="https://patchstorage.com/ep-mk1/"> Download EP-MK1 2.2 at Patchstorage </a></h2></p></center>
 
