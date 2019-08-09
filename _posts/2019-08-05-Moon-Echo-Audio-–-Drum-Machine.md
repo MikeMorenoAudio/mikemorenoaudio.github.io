@@ -9,7 +9,7 @@ A fully synthesized drum machine programmed in Pure Data Vanilla and compatible 
 
 Custom made for [Moon Echo Audio](https://www.moonechoaudio.com).
 
-<div class="video-container"><p><iframe width="853" height="480" src="https://www.youtube.com/embed/ZApWqkWXvds" frameborder="0" allowfullscreen></iframe></p></div>
+<p><div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/ZApWqkWXvds" frameborder="0" allowfullscreen></iframe></div></p>
 
 ## References
 * Adam Schneider, ["Dave Smith Tempest 808 Style Clap Tutorial"](https://youtu.be/sfkXyb6P_Pc)
