@@ -6,7 +6,7 @@ tags: [plugins, portfolio]
 
 **Euklid** is a real-time euclidean rhythm generator built using Camomile and Pure Data.
 
-<center><p><font size="5"><a href="https://patchstorage.com/euklid"> Download Euklid 1.2 at Patchstorage </a></font></p></center>
+<center><p><h2><a href="https://patchstorage.com/euklid"> Download Euklid 1.2 at Patchstorage </a></h2></p></center>
 
 <iframe width="512" height="288"
 src="https://www.youtube.com/embed/MIk4-UJoH38">
