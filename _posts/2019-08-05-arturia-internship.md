@@ -16,4 +16,4 @@ I was part of the Beta Test for the Arturia V Collection 5 for several plugins. 
 
 A drum sampler expansion for the Arturia Beatstep Pro programmed in Pure Data and running in a headless Raspberry Pi 3.
 
-<div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/99LynWQqk5w" frameborder="0" allowfullscreen></iframe></div>
+<p><div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/99LynWQqk5w" frameborder="0" allowfullscreen></iframe></div></p>
