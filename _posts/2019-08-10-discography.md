@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: portfolio
+tags: [music, portfolio]
 ---
 # Discography
 
