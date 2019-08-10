@@ -14,7 +14,7 @@ tags: [music, portfolio]
 ## Singles
 * 2018: [Virtual Plant Pots](https://open.spotify.com/album/3Oate6k97DrjBjxEpr01z5) – [DEHUS](https://www.facebook.com/DEHUSMX/) (writer & producer)
 * 2018: [Mental Landscapes 1](https://www.facebook.com/gooyouthfilmphoto/videos/403494036672566/) – [DEHUS](https://www.facebook.com/DEHUSMX/) (writer & producer)
-* 2018: [Extracción / Transmutación](https://youtu.be/syB3TUazhOk) – [Angelo Sturiale](http://www.angelosturiale.com/) and [Miguel Moreno](https://facebook.com/MikeMorenoAudio/)
+* 2018: [Extracción / Transmutación](https://youtu.be/syB3TUazhOk) – [Angelo Sturiale](http://www.angelosturiale.com/) and [Miguel Moreno](https://facebook.com/MikeMorenoAudio/) (writer & producer)
 * 2018: [Joi](https://mikemoreno.bandcamp.com/track/just-intonation-algorithmic-composition-in-pure-data-joi) – [Mike Moreno](https://facebook.com/MikeMorenoAudio/) (writer & producer)
 
 ## Livestreams
