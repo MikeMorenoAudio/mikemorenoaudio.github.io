@@ -27,7 +27,7 @@ Neon SciFi: Neuro had its debut presentation on April 13, 2019 at Monterrey's Mu
 On May 2019, the **"Control"** installation was displayed at the international neuroscience meeting in Marseille: NeuroFrance 2019. This event along with the installation was featured on the
 "France 3 Côte d'Azur" news channel.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fposts%2F1672565782887724&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<p><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fposts%2F1672565782887724&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p>
 
 ## Credits
 * Concept: Jesus Tamez-Duque, Guillermo Santos, Andres Ponce and Miguel Moreno
