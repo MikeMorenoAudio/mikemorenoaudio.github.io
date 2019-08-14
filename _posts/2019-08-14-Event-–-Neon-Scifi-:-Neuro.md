@@ -2,17 +2,32 @@
 layout: default
 tags: portfolio
 ---
-# Neon SciFi: Neuro (2019)
+# Neon SciFi: Neuro
 
 **Neon SciFi** is an event that seeks to present new and cutting-edge technologies in creative and interactive applications.
 
-On the first edition we showcased the use of electroencephalography (EEG) in four interactive installations.
+On the first edition we showcased the use of electroencephalography (EEG) in four interactive installations:
+* **Thought** : In this installation four different areas of the brain were projected independently in real-time. The projector shows the electrical activity and the neural state of the assistant by means of three colors: blue = relaxation, red = concentration and purple = movement.
+* **Sensation** : Textures, smells, sounds and flavors induce different mental states that could change a person's mood. Through the use of EEG, it is possible to study how external stimuli affects the physiological and perhaps psychological behavior of different individuals.
+* **Movement** : In this installation the neural activity is projected in the form of particles, whose number and size varies depending on the magnitude of the currents, and its position is affected by the movement of the assistant. With the use of these movement and brain signals, an audiovisual projection of its dynamic exploration is generated for each individual.
+* **Control** : In this installation, the assistant has the opportunity to test his or her concentration capability. Through the measurement of Beta Frequency Band (15-25 Hz), this installation allows the manipulation of the ignition and the intensity of the light through thought.
 
-## Videos
+## Marco (2019)
+
+Neon SciFi: Neuro had its debut presentation on April 13, 2019 at Monterrey's Museum of Contemporary Art (MARCO). The event was carried out at MARCO's central courtyard with the installations on display and around 700 attendees in that night.
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fvideos%2F657232598060332%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-## Photos
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1644915758986060%26type%3D3&width=500" width="500" height="738" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+## NeuroFrance (2019)
+
+On May 2019 the **"Control"** installation was displayed at the international neuroscience congress at Marseille: NeuroFrance. This event along with the installation was featured on the news.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fposts%2F1672565782887724&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1644915758986060%26type%3D3&width=500" width="500" height="738" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+### Credits
+
+Concept: Jesus Tamez-Duque, Guillermo Santos, Andres Ponce and Miguel Moreno
+Hardware: Jesus Tamez-Duque and Guillermo Santos
+Software: Andres Ponce and Miguel Moreno
