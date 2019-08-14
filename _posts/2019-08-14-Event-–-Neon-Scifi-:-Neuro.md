@@ -4,7 +4,7 @@ tags: portfolio
 ---
 # Neon SciFi: Neuro
 
-![Control](2019-08-14-Neon-SciFi-Neuro.jpg)
+![Control](/assets/images/2019-08-14-Neon-SciFi-Neuro.jpg)
 
 **Neon SciFi** is an event that seeks to present new and cutting-edge technologies in creative and interactive applications.
 
