@@ -28,8 +28,7 @@ On May 2019, the **"Control"** installation was displayed at the international n
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fposts%2F1672565782887724&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## Credits
-
-Concept: Jesus Tamez-Duque, Guillermo Santos, Andres Ponce and Miguel Moreno
-Design: Jesus Tamez-Duque
-Hardware: Jesus Tamez-Duque and Guillermo Santos
-Software: Andres Ponce and Miguel Moreno
+* Concept: Jesus Tamez-Duque, Guillermo Santos, Andres Ponce and Miguel Moreno
+* Design: Jesus Tamez-Duque
+* Hardware: Jesus Tamez-Duque and Guillermo Santos
+* Software: Andres Ponce and Miguel Moreno
