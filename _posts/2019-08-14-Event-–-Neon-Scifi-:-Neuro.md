@@ -14,7 +14,7 @@ On the first edition we showcased the use of electroencephalography (EEG) in fou
 * **Movement** : In this installation the neural activity is projected in the form of particles, whose number and size varies depending on the magnitude of the currents, and its position is affected by the movement of the assistant. With the use of these movement and brain signals, an audiovisual projection of its dynamic exploration is generated for each individual.
 * **Control** : In this installation, the assistant has the opportunity to test his or her concentration capability. Through the measurement of Beta Frequency Band (15-25 Hz), this installation allows the manipulation of the ignition and the intensity of the light through thought.
 
-## Marco (2019)
+## MARCO (2019)
 
 Neon SciFi: Neuro had its debut presentation on April 13, 2019 at Monterrey's Museum of Contemporary Art (MARCO). The event was carried out at MARCO's central courtyard with the installations on display and around 700 attendees in that night.
 
