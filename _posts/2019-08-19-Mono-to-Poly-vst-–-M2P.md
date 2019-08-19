@@ -20,7 +20,7 @@ To install please read the instructions on [how to install a Camomile plugin](ht
 
 ## Ableton Live Routing
 
-M2P is an instrument plugin, so we need two tracks in order to make it work:
+M2P is an instrument plugin, so we need two tracks in to make it work:
 * One MIDI track receiving MIDI output from your synth
 * One Audio track receiving the Audio output from your synth.
 
@@ -32,7 +32,7 @@ It is also important to be sure both tracks have the Monitor option at In.
 
 Finally, M2P needs to have the same Note Priority parameter as your synth.
 
-For example: the Korg Monologue has Last Note Priority so we set M2P’s Note Priority to Last.
+For example, the Korg Monologue has Last Note Priority so we set M2P’s Note Priority to Last.
 
 ![M2P GUI](/assets/images/2019-08-19-M2P-GUI.png)
 
