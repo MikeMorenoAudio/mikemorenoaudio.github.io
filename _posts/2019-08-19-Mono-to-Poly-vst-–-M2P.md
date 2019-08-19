@@ -15,7 +15,7 @@ So by receiving that MIDI data you can harmonize in real-time the notes that are
 
 <p><div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/7d3IagGN50E" frameborder="0" allowfullscreen></iframe></div></p>
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FholaWave%2Fvideos%2F299898077356474%2F&show_text=1&width=267" width="267" height="749" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FholaWave%2Fvideos%2F299898077356474%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ## Installation Guide
 To install please read the instructions on [how to install a Camomile plugin](https://github.com/pierreguillot/Camomile/wiki/How-to-install-plugins).
