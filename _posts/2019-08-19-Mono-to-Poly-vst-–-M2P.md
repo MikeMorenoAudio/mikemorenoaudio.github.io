@@ -28,7 +28,7 @@ M2P is an instrument plugin, so we need two tracks in order to make it work:
 
 After that we need to route the audio from our synth to M2P like this:
 
-![Ableton Live Routing](2019-08-19-Ableton-M2P)
+![Ableton Live Routing](/assets/images/2019-08-19-Ableton-M2P)
 
 It is also important to be sure both tracks have the Monitor option at In.
 
@@ -36,6 +36,6 @@ Finally, M2P needs to have the same Note Priority parameter as your synth.
 
 For example: the Korg Monologue has Last Note Priority so we set M2P’s Note Priority to Last.
 
-![M2P GUI](2019-08-19-M2P-GUI)
+![M2P GUI](/assets/images/2019-08-19-M2P-GUI)
 
 And that’s it! Enjoy real-time polyphony!
