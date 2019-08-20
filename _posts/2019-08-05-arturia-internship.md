@@ -1,6 +1,7 @@
 ---
 layout: default
 tags: portfolio
+title: Arturia Internship
 ---
 # Arturia Internship
 
