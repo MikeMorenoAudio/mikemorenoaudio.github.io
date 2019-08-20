@@ -1,6 +1,7 @@
 ---
 layout: default
 tags: portfolio
+excerpt_separator: <!--more-->
 ---
 # Arturia Internship
 
