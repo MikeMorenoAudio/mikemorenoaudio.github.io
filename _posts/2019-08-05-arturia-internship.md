@@ -1,13 +1,12 @@
 ---
 layout: default
 tags: portfolio
-title: Arturia Internship
 ---
 # Arturia Internship
 
 <!--more-->
-During my studies in 2016 I had the opportunity to do an online internship with Arturia which consisted of beta testing the V Collection 5 and developing a drum sampler prototype for the BeatStep Pro.
-<!--more-->
+During my studies in 2016 I had the opportunity to do an online internship   with Arturia which consisted of beta testing the V Collection 5 and developing a drum sampler prototype for the BeatStep Pro.
+
 
 ## V Collection 5
 
