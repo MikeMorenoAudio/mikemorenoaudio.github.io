@@ -9,7 +9,7 @@ title: mikemorenoaudio.github.io
     {% for post in site.posts %}</p>
     <div class="article">
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-         {{ post.content | strip_html | truncatewords: 15 }}
+         {{ post.excerpt }}
         <span class="article-information">
             {% for tag in post.tags %}
             <a href="/tags/{{ tag }}" class="article-tag">{{ tag }}</a>
