@@ -13,5 +13,6 @@ I can’t wait for participating in the next MexSynthCo 2020!
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmianmogra%2Fposts%2F10156256747824211&width=500" width="500" height="681" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-[MexSynthCo official website](https://mexsynthco.com/)
-[MexSyncCo Facebook page](https://www.facebook.com/Mexsynthco/)
+## Links
+* [MexSynthCo official website](https://mexsynthco.com/)
+* [MexSyncCo Facebook page](https://www.facebook.com/Mexsynthco/)
