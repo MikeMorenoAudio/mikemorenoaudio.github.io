@@ -56,12 +56,12 @@ Lastly, MIDI is implemented to control the fundamental frequency, the hammer’s
 ## References
 
 * Kurt James Werner. A Physically-Informed, Circuit-Bendable, Digital Model of the Roland TR-808 Bass Drum Circuit.
-[](http://www.dafx14.fau.de/papers/dafx14_kurt_james_werner_a_physically_informed,_ci.pdf)
+[http://www.dafx14.fau.de/papers/dafx14_kurt_james_werner_a_physically_informed,_ci.pdf](http://www.dafx14.fau.de/papers/dafx14_kurt_james_werner_a_physically_informed,_ci.pdf)
 * Florian Pfeifle. Real-time Physical Model of a Wurlitzer and Rhodes Electric Piano.
-http://dafx17.eca.ed.ac.uk/papers/DAFx17_paper_79.pdf
+[http://dafx17.eca.ed.ac.uk/papers/DAFx17_paper_79.pdf](http://dafx17.eca.ed.ac.uk/papers/DAFx17_paper_79.pdf)
 * M. Muenster and F. Pfeifle. Non-Linear Behaviour in Sound Production of the Rhodes Piano.
-http://www.conforg.fr/isma2014/cdrom/data/articles/000062.pdf
+[http://www.conforg.fr/isma2014/cdrom/data/articles/000062.pdf](http://www.conforg.fr/isma2014/cdrom/data/articles/000062.pdf)
 * Kees van den Doel and Dinesh K. Pai. Modal Synthesis for Vibrating Objects.
-http://persianney.com/kvdoelcsubc/publications/modalpaper.pdf
+[http://persianney.com/kvdoelcsubc/publications/modalpaper.pdf](http://persianney.com/kvdoelcsubc/publications/modalpaper.pdf)
 * Applied Acoustic Systems. Lounge Lizard EP-4 In Depth.
-https://www.applied-acoustics.com/lounge-lizard-ep-4/in-depth/
+[https://www.applied-acoustics.com/lounge-lizard-ep-4/in-depth/](https://www.applied-acoustics.com/lounge-lizard-ep-4/in-depth/)
