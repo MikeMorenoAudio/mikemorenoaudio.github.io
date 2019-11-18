@@ -56,7 +56,7 @@ Lastly, MIDI is implemented to control the fundamental frequency, the hammer’s
 ## References
 
 * Kurt James Werner. A Physically-Informed, Circuit-Bendable, Digital Model of the Roland TR-808 Bass Drum Circuit.
-http://www.dafx14.fau.de/papers/dafx14_kurt_james_werner_a_physically_informed,_ci.pdf
+[](http://www.dafx14.fau.de/papers/dafx14_kurt_james_werner_a_physically_informed,_ci.pdf)
 * Florian Pfeifle. Real-time Physical Model of a Wurlitzer and Rhodes Electric Piano.
 http://dafx17.eca.ed.ac.uk/papers/DAFx17_paper_79.pdf
 * M. Muenster and F. Pfeifle. Non-Linear Behaviour in Sound Production of the Rhodes Piano.
