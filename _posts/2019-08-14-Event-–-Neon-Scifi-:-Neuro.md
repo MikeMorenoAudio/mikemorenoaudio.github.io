@@ -18,16 +18,17 @@ On the first edition we showcased the use of electroencephalography (EEG) in fou
 
 Neon SciFi: Neuro had its debut presentation on April 13, 2019 at Monterrey's Museum of Contemporary Art (MARCO). The event was carried out at MARCO's central courtyard with the installations on display and around 700 attendees in that night.
 
-<p><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1644915758986060%26type%3D3&width=500" width="500" height="738" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p>
+[View Photos](https://www.facebook.com/TamezDuque/posts/1644915758986060)
 
-<p><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fvideos%2F657232598060332%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></p>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fvideos%2F657232598060332%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ## NeuroFrance (2019)
 
 On May 2019, the **"Control"** installation was displayed at the international neuroscience meeting in Marseille: NeuroFrance 2019. This event along with the installation was featured on the
 "France 3 Côte d'Azur" news channel.
 
-<p><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTamezDuque%2Fposts%2F1672565782887724&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p>
+[View Photos](https://www.facebook.com/TamezDuque/posts/1672565782887724)
+[View Photos](https://www.facebook.com/TamezDuque/posts/1680702182074084)
 
 ## Credits
 * Concept: Jesus Tamez-Duque, Guillermo Santos, Andres Ponce and Miguel Moreno
